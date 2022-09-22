@@ -17,7 +17,6 @@ def str_to_int(original_string):
     for character in original_string:
         ord_total = ord_total + ord(character)
     return ord_total
-    print(10/0)
 text = "cats"
 result = str_to_int(text)
 # print(result)
