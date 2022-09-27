@@ -58,5 +58,5 @@ for w in words: # step 2, loop
     # step 4, identify the thing you want to save
     base = base + new_word # step 5, update your base
 
-print(base) 
+print(base)
 
