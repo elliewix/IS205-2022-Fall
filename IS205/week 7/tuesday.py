@@ -41,3 +41,4 @@ print("cats"[-1])
 
 print("banana crackers all over my car"[-2:])
 print("banana crackers all over my car".split()[-2:])
+
