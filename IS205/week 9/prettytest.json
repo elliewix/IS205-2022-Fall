@@ -1,0 +1,1728 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    5
+                ]
+            ],
+            "date-time": "2022-10-05T11:45:35Z",
+            "timestamp": 1664970335714
+        },
+        "publisher-location": "Cham",
+        "reference-count": 144,
+        "publisher": "Springer International Publishing",
+        "isbn-type": [
+            {
+                "value": "9783031098345",
+                "type": "print"
+            },
+            {
+                "value": "9783031098352",
+                "type": "electronic"
+            }
+        ],
+        "license": [
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2022,
+                            10,
+                            2
+                        ]
+                    ],
+                    "date-time": "2022-10-02T00:00:00Z",
+                    "timestamp": 1664668800000
+                },
+                "content-version": "tdm",
+                "delay-in-days": 0,
+                "URL": "https://www.springer.com/tdm"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2022,
+                            10,
+                            2
+                        ]
+                    ],
+                    "date-time": "2022-10-02T00:00:00Z",
+                    "timestamp": 1664668800000
+                },
+                "content-version": "vor",
+                "delay-in-days": 0,
+                "URL": "https://www.springer.com/tdm"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2022,
+                            10,
+                            2
+                        ]
+                    ],
+                    "date-time": "2022-10-02T00:00:00Z",
+                    "timestamp": 1664668800000
+                },
+                "content-version": "tdm",
+                "delay-in-days": 0,
+                "URL": "https://www.springer.com/tdm"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2022,
+                            10,
+                            2
+                        ]
+                    ],
+                    "date-time": "2022-10-02T00:00:00Z",
+                    "timestamp": 1664668800000
+                },
+                "content-version": "vor",
+                "delay-in-days": 0,
+                "URL": "https://www.springer.com/tdm"
+            }
+        ],
+        "content-domain": {
+            "domain": [
+                "link.springer.com"
+            ],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [],
+        "published-print": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        },
+        "DOI": "10.1007/978-3-031-09835-2_6",
+        "type": "book-chapter",
+        "created": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    1
+                ]
+            ],
+            "date-time": "2022-10-01T16:02:32Z",
+            "timestamp": 1664640152000
+        },
+        "page": "109-134",
+        "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Optimum Design and Tuning Applications in Structural Engineering via Swarm Intelligence"
+        ],
+        "prefix": "10.1007",
+        "author": [
+            {
+                "given": "Gebrail",
+                "family": "Bekda\u015f",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Sinan Melih",
+                "family": "Nigdeli",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Aylin Ece",
+                "family": "Kayabekir",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "297",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    2
+                ]
+            ]
+        },
+        "reference": [
+            {
+                "key": "6_CR1",
+                "doi-asserted-by": "publisher",
+                "first-page": "29",
+                "DOI": "10.1109/3477.484436",
+                "volume": "26",
+                "author": "M Dorigo",
+                "year": "1996",
+                "unstructured": "Dorigo, M., Maniezzo, V., Colorni, A.: The ant system: optimization by a colony of cooperating agents. IEEE Trans. Syst. Man Cybernet. B 26, 29\u201341 (1996)",
+                "journal-title": "IEEE Trans. Syst. Man Cybernet. B"
+            },
+            {
+                "issue": "4598",
+                "key": "6_CR2",
+                "doi-asserted-by": "publisher",
+                "first-page": "671",
+                "DOI": "10.1126/science.220.4598.671",
+                "volume": "220",
+                "author": "S Kirkpatrick",
+                "year": "1983",
+                "unstructured": "Kirkpatrick, S., Gelatt, C.D., Vecchi, M.P.: Optimization by simulated annealing. Science 220(4598), 671\u2013680 (1983)",
+                "journal-title": "Science"
+            },
+            {
+                "key": "6_CR3",
+                "volume-title": "Adaptation in Natural and Artificial Systems",
+                "author": "JH Holland",
+                "year": "1975",
+                "unstructured": "Holland, J.H.: Adaptation in Natural and Artificial Systems. University of Michigan Press, Ann Arbor, MI (1975)"
+            },
+            {
+                "key": "6_CR4",
+                "unstructured": "Goldberg, D.E.: Genetic Algorithms in Search, Optimization and Machine Learning. Addison Wesley, Boston, MA (1989)"
+            },
+            {
+                "issue": "3\u20134",
+                "key": "6_CR5",
+                "doi-asserted-by": "publisher",
+                "first-page": "223",
+                "DOI": "10.1177/105971230401200308",
+                "volume": "12",
+                "author": "S Nakrani",
+                "year": "2004",
+                "unstructured": "Nakrani, S., Tovey, C.: On honey bees and dynamic server allocation in internet hosting centers. Adapt. Behav. 12(3\u20134), 223\u2013240 (2004)",
+                "journal-title": "Adapt. Behav."
+            },
+            {
+                "key": "6_CR6",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Yang, X.S.: Engineering optimizations via nature-inspired virtual Bee algorithms. In: Lecture Notes in Computer Science,\u00a0vol. 3562,\u00a0p. 317. Springer, GmbH (2005)",
+                "DOI": "10.1007/11499305_33"
+            },
+            {
+                "key": "6_CR7",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Haddad, O.B., Afshar, A., Marino, M.A.: Honey-bees mating optimization (HBMO) algorithm: a new heuristic approach for water resources optimization. Water Resour. Manag. 20(5), 661\u2013680 (2006)",
+                "DOI": "10.1007/s11269-005-9001-3"
+            },
+            {
+                "issue": "3",
+                "key": "6_CR8",
+                "doi-asserted-by": "publisher",
+                "first-page": "459",
+                "DOI": "10.1007/s10898-007-9149-x",
+                "volume": "39",
+                "author": "D Karaboga",
+                "year": "2007",
+                "unstructured": "Karaboga, D., Basturk, B.: A powerful and efficient algorithm for numerical function optimization: artificial bee colony (ABC) algorithm. J. Global Optim. 39(3), 459\u2013471 (2007)",
+                "journal-title": "J. Global Optim."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR9",
+                "doi-asserted-by": "publisher",
+                "first-page": "4",
+                "DOI": "10.1287/ijoc.2.1.4",
+                "volume": "2",
+                "author": "F Glover",
+                "year": "1990",
+                "unstructured": "Glover, F.: Tabu search\u2014part II. ORSA J. Comput. 2(1), 4\u201332 (1990)",
+                "journal-title": "ORSA J. Comput."
+            },
+            {
+                "key": "6_CR10",
+                "unstructured": "Kennedy, J., Eberhart, R.C.: Particle swarm optimization. In: Proceedings of IEEE International Conference on Neural Networks No. IV, pp. 1942\u20131948. Perth Australia (1995)"
+            },
+            {
+                "issue": "2",
+                "key": "6_CR11",
+                "doi-asserted-by": "publisher",
+                "first-page": "106",
+                "DOI": "10.1016/j.advengsoft.2005.04.005",
+                "volume": "37",
+                "author": "OK Erol",
+                "year": "2006",
+                "unstructured": "Erol, O.K., Eksin, I.: A new optimization method: big bang\u2013big crunch. Adv. Eng. Softw. 37(2), 106\u2013111 (2006)",
+                "journal-title": "Adv. Eng. Softw."
+            },
+            {
+                "key": "6_CR12",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Yang, X.S.: Firefly algorithms for multimodal optimization. In: Osamu,\u00a0W., Thomas, Z. (eds.) Lecture Notes in Computer Sciences, vol. 5792, pp. 169\u2013178. Chapter 14, Springer, London (2009)",
+                "DOI": "10.1007/978-3-642-04944-6_14"
+            },
+            {
+                "key": "6_CR13",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Yang, X.S.: A new metaheuristic bat-inspired algorithm. In:\u00a0Nature Inspired Cooperative Strategies for Optimization (NICSO 2010), pp. 65\u201374. Springer, Berlin, Heidelberg (2010)",
+                "DOI": "10.1007/978-3-642-12538-6_6"
+            },
+            {
+                "issue": "12",
+                "key": "6_CR14",
+                "doi-asserted-by": "publisher",
+                "first-page": "4831",
+                "DOI": "10.1016/j.cnsns.2012.05.010",
+                "volume": "17",
+                "author": "AH Gandomi",
+                "year": "2012",
+                "unstructured": "Gandomi, A.H., Alavi, A.H.: Krill herd: a new bio-inspired optimization algorithm. Commun. Nonlinear Sci. Numer. Simul. 17(12), 4831\u20134845 (2012)",
+                "journal-title": "Commun. Nonlinear Sci. Numer. Simul."
+            },
+            {
+                "issue": "3",
+                "key": "6_CR15",
+                "doi-asserted-by": "publisher",
+                "first-page": "309",
+                "DOI": "10.1061/(ASCE)0887-3801(1994)8:3(309)",
+                "volume": "8",
+                "author": "VK Koumousis",
+                "year": "1994",
+                "unstructured": "Koumousis, V.K., Georgiou, P.G.: Genetic algorithms in discrete optimization of steel truss roofs. J. Comput. Civ. Eng. 8(3), 309\u2013325 (1994)",
+                "journal-title": "J. Comput. Civ. Eng."
+            },
+            {
+                "issue": "10",
+                "key": "6_CR16",
+                "doi-asserted-by": "publisher",
+                "first-page": "1480",
+                "DOI": "10.1061/(ASCE)0733-9445(1995)121:10(1480)",
+                "volume": "121",
+                "author": "SD Rajan",
+                "year": "1995",
+                "unstructured": "Rajan, S.D.: Sizing, shape, and topology design optimization of trusses using genetic algorithm. J. Struct. Eng. 121(10), 1480\u20131487 (1995)",
+                "journal-title": "J. Struct. Eng."
+            },
+            {
+                "issue": "6",
+                "key": "6_CR17",
+                "doi-asserted-by": "publisher",
+                "first-page": "647",
+                "DOI": "10.1016/S0045-7949(99)00110-8",
+                "volume": "75",
+                "author": "CA Coello",
+                "year": "2000",
+                "unstructured": "Coello, C.A., Christiansen, A.D.: Multiobjective optimization of trusses using genetic algorithms. Comput. Struct. 75(6), 647\u2013660 (2000)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "issue": "2",
+                "key": "6_CR18",
+                "doi-asserted-by": "publisher",
+                "first-page": "209",
+                "DOI": "10.1016/S0045-7949(99)00084-X",
+                "volume": "75",
+                "author": "F Erbatur",
+                "year": "2000",
+                "unstructured": "Erbatur, F., Hasan\u00e7ebi, O., T\u00fct\u00fcnc\u00fc, I., K\u0131l\u0131\u00e7, H.: Optimal design of planar and space structures with genetic algorithms. Comput. Struct. 75(2), 209\u2013224 (2000)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR19",
+                "doi-asserted-by": "publisher",
+                "first-page": "66",
+                "DOI": "10.1061/(ASCE)0887-3801(2002)16:1(66)",
+                "volume": "16",
+                "author": "CS Krishnamoorthy",
+                "year": "2002",
+                "unstructured": "Krishnamoorthy, C.S., Prasanna Venkatesh, P., Sudarshan, R.: Object-oriented framework for genetic algorithms with application to space truss optimization. J. Comput. Civ. Eng. 16(1), 66\u201375 (2002)",
+                "journal-title": "J. Comput. Civ. Eng."
+            },
+            {
+                "issue": "6",
+                "key": "6_CR20",
+                "doi-asserted-by": "publisher",
+                "first-page": "737",
+                "DOI": "10.1080/03052150701335071",
+                "volume": "39",
+                "author": "O Hasancebi",
+                "year": "2007",
+                "unstructured": "Hasancebi, O.: Optimization of truss bridges within a specified design domain using evolution strategies. Eng. Optim. 39(6), 737\u2013756 (2007)",
+                "journal-title": "Eng. Optim."
+            },
+            {
+                "issue": "10",
+                "key": "6_CR21",
+                "doi-asserted-by": "publisher",
+                "first-page": "717",
+                "DOI": "10.1016/j.advengsoft.2007.03.003",
+                "volume": "38",
+                "author": "O Kelesoglu",
+                "year": "2007",
+                "unstructured": "Kelesoglu, O.: Fuzzy multiobjective optimization of truss-structures using genetic algorithm. Adv. Eng. Softw. 38(10), 717\u2013721 (2007)",
+                "journal-title": "Adv. Eng. Softw."
+            },
+            {
+                "issue": "3",
+                "key": "6_CR22",
+                "doi-asserted-by": "publisher",
+                "first-page": "147",
+                "DOI": "10.3846/1392-3730.2008.14.10",
+                "volume": "4",
+                "author": "D \u0160e\u0161ok",
+                "year": "2008",
+                "unstructured": "\u0160e\u0161ok, D., Belevi\u010dius, R.: Global optimization of trusses with a modified genetic algorithm. J. Civ. Eng. Manag. 4(3), 147\u2013154 (2008)",
+                "journal-title": "J. Civ. Eng. Manag."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR23",
+                "doi-asserted-by": "publisher",
+                "first-page": "1204",
+                "DOI": "10.1016/j.compstruc.2007.11.006",
+                "volume": "86",
+                "author": "V To\u011fan",
+                "year": "2008",
+                "unstructured": "To\u011fan, V., Dalo\u011flu, A.T.: An improved genetic algorithm with initial population strategy and self-adaptive member grouping. Comput. Struct. 86(1), 1204\u20131218 (2008)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "issue": "4",
+                "key": "6_CR24",
+                "doi-asserted-by": "publisher",
+                "first-page": "513",
+                "DOI": "10.1007/s00158-012-0777-5",
+                "volume": "46",
+                "author": "JN Richardson",
+                "year": "2012",
+                "unstructured": "Richardson, J.N., Adriaenssens, S., Bouillard, P., Coelho, R.F.: Multiobjective topology optimization of truss structures with kinematic stability repair. Struct. Multidiscip. Optim. 46(4), 513\u2013532 (2012)",
+                "journal-title": "Struct. Multidiscip. Optim."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR25",
+                "doi-asserted-by": "publisher",
+                "first-page": "107",
+                "DOI": "10.1080/0305215X.2013.875165",
+                "volume": "47",
+                "author": "JP Li",
+                "year": "2015",
+                "unstructured": "Li, J.P.: Truss topology optimization using an improved species-conserving genetic algorithm. Eng. Optim. 47(1), 107\u2013128 (2015)",
+                "journal-title": "Eng. Optim."
+            },
+            {
+                "issue": "4",
+                "key": "6_CR26",
+                "doi-asserted-by": "publisher",
+                "first-page": "261",
+                "DOI": "10.1007/s00158-003-0316-5",
+                "volume": "25",
+                "author": "JF Schutte",
+                "year": "2003",
+                "unstructured": "Schutte, J.F., Groenwold, A.A.: Sizing design of truss structures using particle swarms. Struct. Multidiscip. Optim. 25(4), 261\u2013269 (2003)",
+                "journal-title": "Struct. Multidiscip. Optim."
+            },
+            {
+                "issue": "7",
+                "key": "6_CR27",
+                "doi-asserted-by": "publisher",
+                "first-page": "340",
+                "DOI": "10.1016/j.compstruc.2006.11.020",
+                "volume": "85",
+                "author": "LJ Li",
+                "year": "2007",
+                "unstructured": "Li, L.J., Huang, Z.B., Liu, F., Wu, Q.H.: A heuristic particle swarm optimizer for optimization of pin connected structures. Comput. Struct. 85(7), 340\u2013349 (2007)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "issue": "19",
+                "key": "6_CR28",
+                "doi-asserted-by": "publisher",
+                "first-page": "1579",
+                "DOI": "10.1016/j.compstruc.2006.10.013",
+                "volume": "85",
+                "author": "RE Perez",
+                "year": "2007",
+                "unstructured": "Perez, R.E., Behdinan, K.: Particle swarm approach for structural design optimization. Comput. Struct. 85(19), 1579\u20131588 (2007)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "issue": "5",
+                "key": "6_CR29",
+                "doi-asserted-by": "publisher",
+                "first-page": "741",
+                "DOI": "10.1061/(ASCE)0733-9445(2004)130:5(741)",
+                "volume": "130",
+                "author": "CV Camp",
+                "year": "2004",
+                "unstructured": "Camp, C.V., Bichon, B.J.: Design of space trusses using ant colony optimization. J. Struct. Eng. 130(5), 741\u2013751 (2004)",
+                "journal-title": "J. Struct. Eng."
+            },
+            {
+                "issue": "5",
+                "key": "6_CR30",
+                "doi-asserted-by": "publisher",
+                "first-page": "267",
+                "DOI": "10.1016/j.compstruc.2009.01.003",
+                "volume": "87",
+                "author": "A Kaveh",
+                "year": "2009",
+                "unstructured": "Kaveh, A., Talatahari, S.: Particle swarm optimizer, ant colony strategy and harmony search scheme hybridized for optimization of truss structures. Comput. Struct. 87(5), 267\u2013283 (2009)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "key": "6_CR31",
+                "doi-asserted-by": "publisher",
+                "first-page": "177",
+                "DOI": "10.1016/j.compstruc.2012.12.011",
+                "volume": "119",
+                "author": "SO Degertekin",
+                "year": "2013",
+                "unstructured": "Degertekin, S.O., Hayalioglu, M.S.: Sizing truss structures using teaching-learning-based optimization. Comput. Struct. 119, 177\u2013188 (2013)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "key": "6_CR32",
+                "doi-asserted-by": "publisher",
+                "first-page": "87",
+                "DOI": "10.1016/j.engstruct.2014.01.020",
+                "volume": "62\u201363",
+                "author": "CV Camp",
+                "year": "2014",
+                "unstructured": "Camp, C.V., Farshchin, M.: Design of space trusses using modified teaching\u2013learning based optimization. Eng. Struct. 62\u201363, 87\u201397 (2014)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "key": "6_CR33",
+                "doi-asserted-by": "publisher",
+                "first-page": "250",
+                "DOI": "10.1016/j.asoc.2014.12.007",
+                "volume": "28",
+                "author": "T Dede",
+                "year": "2015",
+                "unstructured": "Dede, T., Ayvaz, Y.: Combined size and shape optimization of structures with a new meta-heuristic algorithm. Appl. Soft Comput. 28, 250\u2013258 (2015)",
+                "journal-title": "Appl. Soft Comput."
+            },
+            {
+                "issue": "2",
+                "key": "6_CR34",
+                "doi-asserted-by": "publisher",
+                "first-page": "2406",
+                "DOI": "10.1016/j.asoc.2010.09.003",
+                "volume": "11",
+                "author": "M Sonmez",
+                "year": "2011",
+                "unstructured": "Sonmez, M.: Artificial Bee Colony algorithm for optimization of truss structures. Appl. Soft Comput. 11(2), 2406\u20132418 (2011)",
+                "journal-title": "Appl. Soft Comput."
+            },
+            {
+                "key": "6_CR35",
+                "doi-asserted-by": "publisher",
+                "first-page": "322",
+                "DOI": "10.1016/j.asoc.2015.08.037",
+                "volume": "37",
+                "author": "G Bekda\u015f",
+                "year": "2015",
+                "unstructured": "Bekda\u015f, G., Nigdeli, S.M., Yang, X.S.: Sizing optimization of truss structures using flower pollination algorithm. Appl. Soft Comput. 37, 322\u2013331 (2015)",
+                "journal-title": "Appl. Soft Comput."
+            },
+            {
+                "key": "6_CR36",
+                "doi-asserted-by": "publisher",
+                "first-page": "23",
+                "DOI": "10.1016/j.advengsoft.2012.11.006",
+                "volume": "56",
+                "author": "LFF Miguel",
+                "year": "2013",
+                "unstructured": "Miguel, L.F.F., Lopez, R.H., Miguel, L.F.F.: Multimodal size, shape, and topology optimisation of truss structures using the Firefly algorithm. Adv. Eng. Softw. 56, 23\u201337 (2013)",
+                "journal-title": "Adv. Eng. Softw."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR37",
+                "doi-asserted-by": "publisher",
+                "first-page": "17",
+                "DOI": "10.1007/s00366-011-0241-y",
+                "volume": "29",
+                "author": "AH Gandomi",
+                "year": "2013",
+                "unstructured": "Gandomi, A.H., Yang, X.S., Alavi, A.H.: Cuckoo search algorithm: a metaheuristic approach to solve structural optimization problems. Eng. Comput. 29(1), 17\u201335 (2013)",
+                "journal-title": "Eng. Comput."
+            },
+            {
+                "issue": "2",
+                "key": "6_CR38",
+                "first-page": "241",
+                "volume": "5",
+                "author": "S Talatahariand",
+                "year": "2015",
+                "unstructured": "Talatahariand, S., Kaveh, A.: Improved bat algorithm for optimum design of large-scale truss structures. Iran Univ. Sci. Technol. 5(2), 241\u2013254 (2015)",
+                "journal-title": "Iran Univ. Sci. Technol."
+            },
+            {
+                "issue": "7",
+                "key": "6_CR39",
+                "doi-asserted-by": "publisher",
+                "first-page": "999",
+                "DOI": "10.1061/(ASCE)0733-9445(2007)133:7(999)",
+                "volume": "133",
+                "author": "CV Camp",
+                "year": "2007",
+                "unstructured": "Camp, C.V.: Design of space trusses using Big Bang-Big Crunch optimization. J. Struct. Eng. 133(7), 999\u20131008 (2007)",
+                "journal-title": "J. Struct. Eng."
+            },
+            {
+                "issue": "17",
+                "key": "6_CR40",
+                "doi-asserted-by": "publisher",
+                "first-page": "1129",
+                "DOI": "10.1016/j.compstruc.2009.04.011",
+                "volume": "87",
+                "author": "A Kaveh",
+                "year": "2009",
+                "unstructured": "Kaveh, A., Talatahari, S.: Size optimization of space trusses using Big Bang-Big Crunch algorithm. Comput. Struct. 87(17), 1129\u20131140 (2009)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR41",
+                "first-page": "103",
+                "volume": "11",
+                "author": "A Kaveh",
+                "year": "2010",
+                "unstructured": "Kaveh, A., Talatahari, S.: A discrete big bang-big crunch algorithm for optimal design of skeletal structures. Asian J. Civ. Eng. 11(1), 103\u2013122 (2010)",
+                "journal-title": "Asian J. Civ. Eng."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR42",
+                "doi-asserted-by": "publisher",
+                "first-page": "61",
+                "DOI": "10.1080/0305215X.2012.748047",
+                "volume": "46",
+                "author": "O Hasan\u00e7ebi",
+                "year": "2014",
+                "unstructured": "Hasan\u00e7ebi, O., Kazemzadeh Azad, S.: Discrete size optimization of steel trusses using a refined big bang\u2013big crunch algorithm. Eng. Optim. 46(1), 61\u201383 (2014)",
+                "journal-title": "Eng. Optim."
+            },
+            {
+                "key": "6_CR43",
+                "doi-asserted-by": "publisher",
+                "first-page": "136",
+                "DOI": "10.1016/j.advengsoft.2013.09.006",
+                "volume": "67",
+                "author": "A Kaveh",
+                "year": "2014",
+                "unstructured": "Kaveh, A., Sheikholeslami, R., Talatahari, S., Keshvari-Ilkhichi, M.: Chaotic swarming of particles: a new method for size optimization of truss structures. Adv. Eng. Softw. 67, 136\u2013147 (2014)",
+                "journal-title": "Adv. Eng. Softw."
+            },
+            {
+                "key": "6_CR44",
+                "doi-asserted-by": "publisher",
+                "first-page": "48",
+                "DOI": "10.1016/j.advengsoft.2015.11.001",
+                "volume": "92",
+                "author": "V Ho-Huu",
+                "year": "2016",
+                "unstructured": "Ho-Huu, V., Nguyen-Thoi, T., Le-Anh, L., Nguyen-Trang, T.: An effective reliability-based improved constrained differential evolution for reliability-based design optimization of truss structures. Adv. Eng. Softw. 92, 48\u201356 (2016)",
+                "journal-title": "Adv. Eng. Softw."
+            },
+            {
+                "key": "6_CR45",
+                "doi-asserted-by": "publisher",
+                "first-page": "75",
+                "DOI": "10.1016/j.compstruc.2016.10.017",
+                "volume": "179",
+                "author": "C Tort",
+                "year": "2017",
+                "unstructured": "Tort, C., \u015eahin, S., Hasan\u00e7ebi, O.: Optimum design of steel lattice transmission line towers using simulated annealing and PLS-TOWER. Comput. Struct. 179, 75\u201394 (2017)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "key": "6_CR46",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Y\u00fccel, M., Bekda\u015f, G., Nigdeli, S.M.: Prediction of optimum 3-bar truss model parameters with an ANN model. In: International Conference on Harmony Search Algorithm, pp. 317\u2013324. Springer, Singapore (2020)",
+                "DOI": "10.1007/978-981-15-8603-3_28"
+            },
+            {
+                "key": "6_CR47",
+                "doi-asserted-by": "publisher",
+                "unstructured": "Bekda\u015f, G., Y\u00fccel, M., Nigdeli, S.M.: Estimation of optimum design of structural systems via machine learning. Front. Struct. Civ. Eng. (2021). https://doi.org/10.1007/s11709-021-0774-0",
+                "DOI": "10.1007/s11709-021-0774-0"
+            },
+            {
+                "issue": "2",
+                "key": "6_CR48",
+                "doi-asserted-by": "publisher",
+                "first-page": "49",
+                "DOI": "10.3390/buildings11020049",
+                "volume": "11",
+                "author": "G Bekda\u015f",
+                "year": "2021",
+                "unstructured": "Bekda\u015f, G., Yucel, M., Nigdeli, S.M.: Evaluation of metaheuristic-based methods for optimization of truss structures via various algorithms and l\u00e8vy flight modification. Buildings 11(2), 49 (2021)",
+                "journal-title": "Buildings"
+            },
+            {
+                "key": "6_CR49",
+                "doi-asserted-by": "publisher",
+                "first-page": "162",
+                "DOI": "10.1016/j.knosys.2017.12.012",
+                "volume": "143",
+                "author": "GG Tejani",
+                "year": "2018",
+                "unstructured": "Tejani, G.G., Savsani, V.J., Patel, V.K., Mirjalili, S.: Truss optimization with natural frequency bounds using improved symbiotic organisms search. Knowl. Based Syst. 143, 162\u2013178 (2018)",
+                "journal-title": "Knowl. Based Syst."
+            },
+            {
+                "key": "6_CR50",
+                "doi-asserted-by": "publisher",
+                "first-page": "398",
+                "DOI": "10.1016/j.knosys.2018.08.005",
+                "volume": "161",
+                "author": "GG Tejani",
+                "year": "2018",
+                "unstructured": "Tejani, G.G., Pholdee, N., Bureerat, S., Prayogo, D.: Multiobjective adaptive symbiotic organisms search for truss optimization problems. Knowl. Based Syst. 161, 398\u2013414 (2018)",
+                "journal-title": "Knowl. Based Syst."
+            },
+            {
+                "key": "6_CR51",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.compstruc.2020.106353",
+                "volume": "242",
+                "author": "J Pierezan",
+                "year": "2021",
+                "unstructured": "Pierezan, J., dos Santos Coelho, L., Mariani, V.C., de Vasconcelos Segundo, E.H., Prayogo, D.: Chaotic coyote algorithm applied to truss optimization problems. Comput. Struct. 242, 106353 (2021)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "issue": "4",
+                "key": "6_CR52",
+                "doi-asserted-by": "publisher",
+                "first-page": "3439",
+                "DOI": "10.1007/s00366-020-01010-1",
+                "volume": "37",
+                "author": "S Kumar",
+                "year": "2021",
+                "unstructured": "Kumar, S., Tejani, G.G., Pholdee, N., Bureerat, S.: Multi-objective modified heat transfer search for truss optimization. Eng. Comput. 37(4), 3439\u20133454 (2021)",
+                "journal-title": "Eng. Comput."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR53",
+                "doi-asserted-by": "publisher",
+                "first-page": "641",
+                "DOI": "10.1007/s00366-019-00846-6",
+                "volume": "37",
+                "author": "GG Tejani",
+                "year": "2021",
+                "unstructured": "Tejani, G.G., Kumar, S., Gandomi, A.H.: Multi-objective heat transfer search algorithm for truss optimization. Eng. Comput. 37(1), 641\u2013662 (2021)",
+                "journal-title": "Eng. Comput."
+            },
+            {
+                "key": "6_CR54",
+                "doi-asserted-by": "publisher",
+                "first-page": "34",
+                "DOI": "10.1016/j.compstruc.2005.09.001",
+                "volume": "84",
+                "author": "V Govindaraj",
+                "year": "2005",
+                "unstructured": "Govindaraj, V., Ramasamy, J.V.: Optimum detailed design of reinforced concrete continuous beams using genetic algorithms. Comput. Struct. 84, 34\u201348 (2005)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "key": "6_CR55",
+                "doi-asserted-by": "publisher",
+                "first-page": "43",
+                "DOI": "10.1016/j.engstruct.2012.04.008",
+                "volume": "42",
+                "author": "F Fedghouche",
+                "year": "2012",
+                "unstructured": "Fedghouche, F., Tiliouine, B.: Minimum cost design of reinforced concrete T-beams at ultimate loads using Eurocode2. Eng. Struct. 42, 43\u201350 (2012)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR56",
+                "doi-asserted-by": "publisher",
+                "first-page": "105",
+                "DOI": "10.1061/(ASCE)0733-9445(2003)129:1(105)",
+                "volume": "129",
+                "author": "CV Camp",
+                "year": "2003",
+                "unstructured": "Camp, C.V., Pezeshk, S., Hansson, H.: Flexural design of reinforced concrete frames using a genetic algorithm. J. Struct. Eng. 129(1), 105\u2013115 (2003)",
+                "journal-title": "J. Struct. Eng."
+            },
+            {
+                "issue": "18",
+                "key": "6_CR57",
+                "doi-asserted-by": "publisher",
+                "first-page": "1957",
+                "DOI": "10.1016/S0045-7949(03)00215-3",
+                "volume": "81",
+                "author": "M Leps",
+                "year": "2003",
+                "unstructured": "Leps, M., Sejnoha, M.: New approach to optimization of reinforced concrete beams. Comput. Struct. 81(18), 1957\u20131966 (2003)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "issue": "3",
+                "key": "6_CR58",
+                "doi-asserted-by": "publisher",
+                "first-page": "313",
+                "DOI": "10.1016/j.engstruct.2004.10.002",
+                "volume": "27",
+                "author": "MG Sahab",
+                "year": "2005",
+                "unstructured": "Sahab, M.G., Ashour, A.F., Toropov, V.V.: Cost optimisation of reinforced concrete flat slab buildings. Eng. Struct. 27(3), 313\u2013322 (2005)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "key": "6_CR59",
+                "unstructured": "Akin, A., Saka, M.P.: Optimum detailed design of reinforced concrete continuous beams using the harmony search algorithm. In:\u00a0Proceedings of the Tenth International Conference on Computational Structures Technology, p. 131. Valencia, Civil-Comp Press, Stirlingshire ,UK (2010)"
+            },
+            {
+                "key": "6_CR60",
+                "unstructured": "Bekda\u015f, G., Nigdeli, S.M.: Cost optimization of T-shaped reinforced concrete beams under flexural effect according to ACI 318. In: 3rd European Conference of Civil Engineering, pp. 122\u2013126. Paris, France, WSEAS (2012). ISBN: 978\u20131\u201361804\u2013137\u20131"
+            },
+            {
+                "issue": "1",
+                "key": "6_CR61",
+                "doi-asserted-by": "publisher",
+                "first-page": "183",
+                "DOI": "10.1002/pamm.201410079",
+                "volume": "14",
+                "author": "G Bekda\u015f",
+                "year": "2014",
+                "unstructured": "Bekda\u015f, G., Nigdeli, S.M.: Optimization of slender reinforced concrete columns. Proc. Appl. Math. Mech. 14(1), 183\u20131884 (2014)",
+                "journal-title": "Proc. Appl. Math. Mech."
+            },
+            {
+                "issue": "6",
+                "key": "6_CR62",
+                "doi-asserted-by": "publisher",
+                "first-page": "1097",
+                "DOI": "10.12989/sem.2015.54.6.1097",
+                "volume": "54",
+                "author": "SM Nigdeli",
+                "year": "2015",
+                "unstructured": "Nigdeli, S.M., Bekdas, G., Kim, S., Geem, Z.W.: A novel harmony search based optimization of reinforced concrete biaxially loaded columns. Struct. Eng. Mech. 54(6), 1097\u20131109 (2015)",
+                "journal-title": "Struct. Eng. Mech."
+            },
+            {
+                "issue": "4",
+                "key": "6_CR63",
+                "doi-asserted-by": "publisher",
+                "first-page": "1410",
+                "DOI": "10.1007/s12205-016-2045-5",
+                "volume": "21",
+                "author": "SM Nigdeli",
+                "year": "2017",
+                "unstructured": "Nigdeli, S.M., Bekda\u015f, G.: Optimum design of RC continuous beams considering unfavourable live-load distributions. KSCE J. Civ. Eng. 21(4), 1410\u20131416 (2017)",
+                "journal-title": "KSCE J. Civ. Eng."
+            },
+            {
+                "key": "6_CR64",
+                "doi-asserted-by": "publisher",
+                "unstructured": "Y\u00fccel, M., Nigdeli, S.M., Kayabekir, A.E., Bekda\u015f, G.: Optimization and artificial neural network models for reinforced concrete members. In: Carbas, S., Toktas, A., Ustun, D. (eds.) Nature-Inspired Metaheuristic Algorithms for Engineering Optimization Applications. Springer Tracts in Nature-Inspired Computing. Springer, Singapore (2021a). https://doi.org/10.1007/978-981-33-6773-9_9",
+                "DOI": "10.1007/978-981-33-6773-9_9"
+            },
+            {
+                "issue": "17",
+                "key": "6_CR65",
+                "doi-asserted-by": "publisher",
+                "first-page": "1569",
+                "DOI": "10.1016/S0045-7949(01)00037-2",
+                "volume": "79",
+                "author": "B Ceranic",
+                "year": "2001",
+                "unstructured": "Ceranic, B., Freyer, C., Baines, R.W.: An application of simulated annealing to the optimum design reinforced concrete retaining structure. Comput. Struct. 79(17), 1569\u20131581 (2001)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "issue": "3",
+                "key": "6_CR66",
+                "doi-asserted-by": "publisher",
+                "first-page": "821",
+                "DOI": "10.1016/j.engstruct.2007.05.023",
+                "volume": "30",
+                "author": "V Yepes",
+                "year": "2008",
+                "unstructured": "Yepes, V., Alcala, J., Perea, C., Gonzalez-Vidosa, F.: A parametric study of optimum earth-retaining walls by simulated annealing. Eng. Struct. 30(3), 821\u2013830 (2008)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "key": "6_CR67",
+                "unstructured": "Ahmadi-Nedushan, B., Varaee, H.: Optimal design of reinforced concrete retaining walls using a swarm intelligence technique. In: The First International Conference on Soft Computing Technology in Civil, Structural and Environmental Engineering, pp. 1\u201312. UK, Civil-Comp Press, Stirlingshire, Scotland (2009)"
+            },
+            {
+                "issue": "1",
+                "key": "6_CR68",
+                "first-page": "1",
+                "volume": "9",
+                "author": "A Kaveh",
+                "year": "2011",
+                "unstructured": "Kaveh, A., Abadi, A.S.M.: Harmony search based algorithms for the optimum cost design of reinforced concrete cantilever retaining walls. Int. J. Civ. Eng. 9(1), 1\u20138 (2011)",
+                "journal-title": "Int. J. Civ. Eng."
+            },
+            {
+                "key": "6_CR69",
+                "unstructured": "Ghazavi, M., Salavati, V.: Sensitivity analysis and design of reinforced concrete cantilever retaining walls using bacterial foraging optimization algorithm. In:\u00a03rd International Symposium on Geotechnical Safety and Risk (ISGSR), pp. 307\u2013314. Karlsruhe, M\u00fcnchen, Germany, Bundesanstalt f\u00fcr Wasserbau (2011)"
+            },
+            {
+                "issue": "3",
+                "key": "6_CR70",
+                "doi-asserted-by": "publisher",
+                "first-page": "378",
+                "DOI": "10.1061/(ASCE)CP.1943-5487.0000140",
+                "volume": "26",
+                "author": "V Yepes",
+                "year": "2011",
+                "unstructured": "Yepes, V., Gonzalez-Vidosa, F., Alcala, J., Villalba, P.: CO2-optimization design of reinforced concrete retaining walls based on a VNS-threshold acceptance strategy. J. Comput. Civ. Eng. 26(3), 378\u2013386 (2011)",
+                "journal-title": "J. Comput. Civ. Eng."
+            },
+            {
+                "issue": "3",
+                "key": "6_CR71",
+                "doi-asserted-by": "publisher",
+                "first-page": "438",
+                "DOI": "10.1061/(ASCE)ST.1943-541X.0000461",
+                "volume": "138",
+                "author": "CV Camp",
+                "year": "2012",
+                "unstructured": "Camp, C.V., Akin, A.: Design of retaining walls using big bang\u2013big crunch optimization. J. Struct. Eng. 138(3), 438\u2013448 (2012)",
+                "journal-title": "J. Struct. Eng."
+            },
+            {
+                "issue": "15",
+                "key": "6_CR72",
+                "doi-asserted-by": "publisher",
+                "first-page": "6087",
+                "DOI": "10.3390/su12156087",
+                "volume": "12",
+                "author": "AE Kayabekir",
+                "year": "2020",
+                "unstructured": "Kayabekir, A.E., Arama, Z.A., Bekda\u015f, G., Nigdeli, S.M., Geem, Z.W.: Eco-friendly design of reinforced concrete retaining walls: multi-objective optimization with harmony search applications. Sustainability 12(15), 6087 (2020)",
+                "journal-title": "Sustainability"
+            },
+            {
+                "issue": "13",
+                "key": "6_CR73",
+                "doi-asserted-by": "publisher",
+                "first-page": "1639",
+                "DOI": "10.3390/su13041639",
+                "volume": "2021",
+                "author": "M Y\u00fccel",
+                "year": "2021",
+                "unstructured": "Y\u00fccel, M., Kayabekir, A.E., Bekdas, G., Nigdeli, S.M., Kim, S., Geem, Z.W.: Adaptive-hybrid harmony search algorithm for multi-constrained optimum eco-design of reinforced concrete retaining walls. Sustainability 2021(13), 1639 (2021)",
+                "journal-title": "Sustainability"
+            },
+            {
+                "issue": "12",
+                "key": "6_CR74",
+                "doi-asserted-by": "publisher",
+                "first-page": "04021244",
+                "DOI": "10.1061/(ASCE)GM.1943-5622.0002234",
+                "volume": "21",
+                "author": "M Y\u00fccel",
+                "year": "2021",
+                "unstructured": "Y\u00fccel, M., Bekda\u015f, G., Nigdeli, S.M., Kayabekir, A.E.: An artificial intelligence-based prediction model for optimum design variables of reinforced concrete retaining walls. Int. J. Geomech. 21(12), 04021244 (2021)",
+                "journal-title": "Int. J. Geomech."
+            },
+            {
+                "issue": "3",
+                "key": "6_CR75",
+                "doi-asserted-by": "publisher",
+                "first-page": "382",
+                "DOI": "10.1061/(ASCE)0733-9445(2000)126:3(382)",
+                "volume": "126",
+                "author": "S Pezeshk",
+                "year": "2000",
+                "unstructured": "Pezeshk, S., Camp, C.V., Chen, D.: Design of nonlinear framed structures using genetic optimization. J. Struct. Eng. 126(3), 382\u2013388 (2000)",
+                "journal-title": "J. Struct. Eng."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR76",
+                "doi-asserted-by": "publisher",
+                "first-page": "61",
+                "DOI": "10.1016/S0168-874X(02)00179-8",
+                "volume": "40",
+                "author": "W Li",
+                "year": "2003",
+                "unstructured": "Li, W., Li, Q., Steven, G.P., Xie, Y.M.: An evolutionary approach to elastic contact optimization of frame structures. Finite Elem. Anal. Des. 40(1), 61\u201381 (2003)",
+                "journal-title": "Finite Elem. Anal. Des."
+            },
+            {
+                "issue": "3",
+                "key": "6_CR77",
+                "doi-asserted-by": "publisher",
+                "first-page": "369",
+                "DOI": "10.1061/(ASCE)0733-9445(2005)131:3(369)",
+                "volume": "131",
+                "author": "CV Camp",
+                "year": "2005",
+                "unstructured": "Camp, C.V., Bichon, B.J., Stovall, S.P.: Design of steel frames using ant colony optimization. J. Struct. Eng. 131(3), 369\u2013379 (2005)",
+                "journal-title": "J. Struct. Eng."
+            },
+            {
+                "key": "6_CR78",
+                "doi-asserted-by": "publisher",
+                "first-page": "105",
+                "DOI": "10.4203/csets.16.6",
+                "volume": "6",
+                "author": "MP Saka",
+                "year": "2007",
+                "unstructured": "Saka, M.P.: Optimum design of steel frames using stochastic search techniques based on natural phenomena: a review. Civ. Eng. Comput. Tools Tech. 6, 105\u2013147 (2007)",
+                "journal-title": "Civ. Eng. Comput. Tools Tech."
+            },
+            {
+                "issue": "8",
+                "key": "6_CR79",
+                "doi-asserted-by": "publisher",
+                "first-page": "676",
+                "DOI": "10.1016/j.advengsoft.2007.07.007",
+                "volume": "39",
+                "author": "C Perea",
+                "year": "2008",
+                "unstructured": "Perea, C., Alcala, J., Yepes, V., Gonzalez-Vidosa, F., Hospitaler, A.: Design of reinforced concrete bridge frames by heuristic optimization. Adv. Eng. Softw. 39(8), 676\u2013688 (2008)",
+                "journal-title": "Adv. Eng. Softw."
+            },
+            {
+                "key": "6_CR80",
+                "doi-asserted-by": "publisher",
+                "first-page": "63",
+                "DOI": "10.1111/0885-9507.00086",
+                "volume": "13",
+                "author": "S Rajeev",
+                "year": "1998",
+                "unstructured": "Rajeev, S., Krishnamoorthy, C.S.: Genetic algorithm-based methodology for design optimization of reinforced concrete frames. Comput. Aided Civ. Infrastruct. Eng. 13, 63\u201374 (1998)",
+                "journal-title": "Comput. Aided Civ. Infrastruct. Eng."
+            },
+            {
+                "issue": "6",
+                "key": "6_CR81",
+                "doi-asserted-by": "publisher",
+                "first-page": "762",
+                "DOI": "10.1061/(ASCE)0733-9445(2003)129:6(762)",
+                "volume": "129",
+                "author": "C Lee",
+                "year": "2003",
+                "unstructured": "Lee, C., Ahn, J.: Flexural design of reinforced concrete frames by genetic algorithm. J. Struct. Eng. 129(6), 762\u2013774 (2003)",
+                "journal-title": "J. Struct. Eng."
+            },
+            {
+                "issue": "4",
+                "key": "6_CR82",
+                "doi-asserted-by": "publisher",
+                "first-page": "471",
+                "DOI": "10.1080/03052150601180767",
+                "volume": "39",
+                "author": "V Govindaraj",
+                "year": "2007",
+                "unstructured": "Govindaraj, V., Ramasamy, J.V.: Optimum detailed design of reinforced concrete frames using genetic algorithms. Eng. Optim. 39(4), 471\u2013494 (2007)",
+                "journal-title": "Eng. Optim."
+            },
+            {
+                "issue": "8",
+                "key": "6_CR83",
+                "doi-asserted-by": "publisher",
+                "first-page": "596",
+                "DOI": "10.1111/j.1467-8667.2008.00561.x",
+                "volume": "23",
+                "author": "I Paya",
+                "year": "2008",
+                "unstructured": "Paya, I., Yepes, V., Gonz\u00e1lez-Vidosa, F., Hospitaler, A.: Multiobjective optimization of concrete frames by simulated annealing. Comput. Aided Civ. Infrastruct. Eng. 23(8), 596\u2013610 (2008)",
+                "journal-title": "Comput. Aided Civ. Infrastruct. Eng."
+            },
+            {
+                "key": "6_CR84",
+                "doi-asserted-by": "publisher",
+                "first-page": "79",
+                "DOI": "10.1016/j.compstruc.2014.10.003",
+                "volume": "147",
+                "author": "A Akin",
+                "year": "2015",
+                "unstructured": "Akin, A., Saka, M.P.: Harmony search algorithm based optimum detailed design of reinforced concrete plane frames subject to ACI 318\u201305 provisions. Comput. Struct. 147, 79\u201395 (2015)",
+                "journal-title": "Comput. Struct."
+            },
+            {
+                "issue": "3",
+                "key": "6_CR85",
+                "first-page": "193",
+                "volume": "9",
+                "author": "A Kaveh",
+                "year": "2011",
+                "unstructured": "Kaveh, A., Sabzi, O.: A comparative study of two meta-heuristic algorithms for optimum design of reinforced concrete frames. Int. J. Civil Eng. 9(3), 193\u2013206 (2011)",
+                "journal-title": "Int. J. Civil Eng."
+            },
+            {
+                "key": "6_CR86",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Paya-Zaforteza, I., Yepes, V., Hospitaler, A., Gonzalez-Vidosa, F.: CO2-optimization of reinforced concrete frames by simulated annealing.\u00a0Eng. Struct.\u00a031(7), 1501\u20131508 (2009)",
+                "DOI": "10.1016/j.engstruct.2009.02.034"
+            },
+            {
+                "key": "6_CR87",
+                "doi-asserted-by": "publisher",
+                "first-page": "363",
+                "DOI": "10.1016/j.engstruct.2012.09.004",
+                "volume": "48",
+                "author": "CV Camp",
+                "year": "2013",
+                "unstructured": "Camp, C.V., Huq, F.: CO2 and cost optimization of reinforced concrete frames using a big bang-big crunch algorithm. Eng. Struct. 48, 363\u2013372 (2013)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "issue": "33",
+                "key": "6_CR88",
+                "doi-asserted-by": "publisher",
+                "first-page": "3080",
+                "DOI": "10.1016/j.cma.2008.02.006",
+                "volume": "197",
+                "author": "M Fesanghary",
+                "year": "2008",
+                "unstructured": "Fesanghary, M., Mahdavi, M., Minary-Jolandan, M., Alizadeh, Y.: Hybridizing harmony search algorithm with sequential quadratic programming for engineering optimization problems. Comput. Methods Appl. Mech. Eng. 197(33), 3080\u20133091 (2008)",
+                "journal-title": "Comput. Methods Appl. Mech. Eng."
+            },
+            {
+                "issue": "2",
+                "key": "6_CR89",
+                "doi-asserted-by": "publisher",
+                "first-page": "189",
+                "DOI": "10.1007/s00158-009-0418-9",
+                "volume": "41",
+                "author": "O Hasan\u00e7ebi",
+                "year": "2010",
+                "unstructured": "Hasan\u00e7ebi, O., \u00c7arba\u015f, S., Saka, M.P.: Improving the performance of simulated annealing in structural optimization. Struct. Multidiscip. Optim. 41(2), 189\u2013203 (2010)",
+                "journal-title": "Struct. Multidiscip. Optim."
+            },
+            {
+                "key": "6_CR90",
+                "doi-asserted-by": "publisher",
+                "first-page": "225",
+                "DOI": "10.1016/j.engstruct.2011.08.035",
+                "volume": "34",
+                "author": "V To\u011fan",
+                "year": "2012",
+                "unstructured": "To\u011fan, V.: Design of planar steel frames using teaching\u2013learning based optimization. Eng. Struct. 34, 225\u2013232 (2012)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "key": "6_CR91",
+                "doi-asserted-by": "publisher",
+                "first-page": "218",
+                "DOI": "10.1016/j.engappai.2014.01.010",
+                "volume": "32",
+                "author": "M Kociecki",
+                "year": "2014",
+                "unstructured": "Kociecki, M., Adeli, H.: Two-phase genetic algorithm for topology optimization of free-form steel space-frame roof structures with complex curvatures. Eng. Appl. Artif. Intell. 32, 218\u2013227 (2014)",
+                "journal-title": "Eng. Appl. Artif. Intell."
+            },
+            {
+                "key": "6_CR92",
+                "doi-asserted-by": "publisher",
+                "first-page": "16",
+                "DOI": "10.1016/j.engstruct.2015.02.026",
+                "volume": "91",
+                "author": "S Talatahari",
+                "year": "2015",
+                "unstructured": "Talatahari, S., Gandomi, A.H., Yang, X.S., Deb, S.: Optimum design of frame structures using the eagle strategy with differential evolution. Eng. Struct. 91, 16\u201325 (2015)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "key": "6_CR93",
+                "doi-asserted-by": "publisher",
+                "first-page": "1",
+                "DOI": "10.1016/j.advengsoft.2015.10.013",
+                "volume": "92",
+                "author": "\u0130 Aydo\u011fdu",
+                "year": "2016",
+                "unstructured": "Aydo\u011fdu, \u0130, Ak\u0131n, A., Saka, M.P.: Design optimization of real world steel space frames using artificial bee colony algorithm with Levy flight distribution. Adv. Eng. Softw. 92, 1\u201314 (2016)",
+                "journal-title": "Adv. Eng. Softw."
+            },
+            {
+                "key": "6_CR94",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Saka, M.P., Carbas, S., Aydogdu, I., Akin, A.: Use of swarm intelligence in structural steel design optimization. In: Yang, X.S., Bekda\u015f, G., Nigdeli S.M. (eds.) Metaheuristics and Optimization in Civil Engineering, vol. 7, pp. 43\u201373. Springer International Publishing, London (2016)",
+                "DOI": "10.1007/978-3-319-26245-1_3"
+            },
+            {
+                "key": "6_CR95",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Bekda\u015f, G., Nigdeli, S.M.: Modified harmony search for optimization of reinforced concrete frames. In:\u00a0International Conference on Harmony Search Algorithm, pp. 213\u2013221. Springer, Singapore (2017)",
+                "DOI": "10.1007/978-981-10-3728-3_21"
+            },
+            {
+                "issue": "5",
+                "key": "6_CR96",
+                "doi-asserted-by": "publisher",
+                "first-page": "403",
+                "DOI": "10.7763/IJET.2018.V10.1092",
+                "volume": "10",
+                "author": "S Ulusoy",
+                "year": "2018",
+                "unstructured": "Ulusoy, S., Kayabekir, A.E., Bekda\u015f, G., Nigdeli, S.M.: Optimum design of reinforced concrete multi-story multi-span frame structures under static loads. Int. J. Eng. Technol 10(5), 403\u2013407 (2018)",
+                "journal-title": "Int. J. Eng. Technol"
+            },
+            {
+                "key": "6_CR97",
+                "unstructured": "Kayabekir, A.E.: Yap\u0131 M\u00fchendisli\u011finde Metasezgisel Algoritmalar ile Optimizasyon Uygulamalar\u0131, MSc Thesis, Istanbul University, Istanbul, Turkey (2018)"
+            },
+            {
+                "key": "6_CR98",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Rak\u0131c\u0131, E., Bekda\u015f, G., Nigdeli, S.M.: Optimal cost design of single-story reinforced concrete frames using jaya algorithm. In: International Conference on Harmony Search Algorithm, pp. 179\u2013186. Springer, Singapore (2020)",
+                "DOI": "10.1007/978-981-15-8603-3_16"
+            },
+            {
+                "issue": "4",
+                "key": "6_CR99",
+                "first-page": "130",
+                "volume": "5",
+                "author": "S Ulusoy",
+                "year": "2019",
+                "unstructured": "Ulusoy, S., Ni\u011fdeli, S.M., Bekda\u015f, G.: Optimization of PID controller parameters for active control of single degree of freedom structures. Challenge 5(4), 130\u2013140 (2019)",
+                "journal-title": "Challenge"
+            },
+            {
+                "issue": "2",
+                "key": "6_CR100",
+                "first-page": "175",
+                "volume": "75",
+                "author": "S Ulusoy",
+                "year": "2020",
+                "unstructured": "Ulusoy, S., Bekdas, G., Nigdeli, S.M.: Active structural control via metaheuristic algorithms considering soil-structure interaction. Struct. Eng. Mech. 75(2), 175\u2013191 (2020)",
+                "journal-title": "Struct. Eng. Mech."
+            },
+            {
+                "key": "6_CR101",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.jobe.2020.101647",
+                "volume": "33",
+                "author": "S Ulusoy",
+                "year": "2021",
+                "unstructured": "Ulusoy, S., Nigdeli, S.M., Bekda\u015f, G.: Novel metaheuristic-based tuning of PID controllers for seismic structures and verification of robustness. J. Build. Eng. 33, 101647 (2021)",
+                "journal-title": "J. Build. Eng."
+            },
+            {
+                "key": "6_CR102",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Ulusoy, S., Bekda\u015f, G., Nigdeli, S.M., Kim, S., Geem, Z.W.: Performance of optimum tuned PID controller with different feedback strategies on active-controlled structures.\u00a0Appl. Sci.\u00a011(4), 1682 (2021b)",
+                "DOI": "10.3390/app11041682"
+            },
+            {
+                "key": "6_CR103",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Ulusoy, S., Kayabekir, A.E., Nigdeli, S.M., Bekda\u015f, G.: Metaheuristic-based structural control methods and comparison of applications. In:\u00a0Nature-Inspired Metaheuristic Algorithms for Engineering Optimization Applications, pp. 251\u2013276. Springer, Singapore (2021c)",
+                "DOI": "10.1007/978-981-33-6773-9_12"
+            },
+            {
+                "key": "6_CR104",
+                "volume-title": "Mechanical Vibrations",
+                "author": "JP Den Hartog",
+                "year": "1956",
+                "unstructured": "Den Hartog, J.P.: Mechanical Vibrations. McGraw-Hill, New York, USA (1956)"
+            },
+            {
+                "issue": "3",
+                "key": "6_CR105",
+                "doi-asserted-by": "publisher",
+                "first-page": "381",
+                "DOI": "10.1002/eqe.4290100304",
+                "volume": "10",
+                "author": "GB Warburton",
+                "year": "1982",
+                "unstructured": "Warburton, G.B.: Optimum absorber parameters for various combinations of response and excitation parameters. Earthq. Eng. Struct. Dyn. 10(3), 381\u2013401 (1982)",
+                "journal-title": "Earthq. Eng. Struct. Dyn."
+            },
+            {
+                "issue": "6",
+                "key": "6_CR106",
+                "doi-asserted-by": "publisher",
+                "first-page": "617",
+                "DOI": "10.1002/(SICI)1096-9845(199706)26:6<617::AID-EQE664>3.0.CO;2-Z",
+                "volume": "26",
+                "author": "F Sadek",
+                "year": "1997",
+                "unstructured": "Sadek, F., Mohraz, B., Taylor, A.W., Chung, R.M.: A method of estimating the parameters of tuned mass dampers for seismic applications. Earthq. Eng. Struct. Dyn. 26(6), 617\u2013636 (1997)",
+                "journal-title": "Earthq. Eng. Struct. Dyn."
+            },
+            {
+                "issue": "11",
+                "key": "6_CR107",
+                "doi-asserted-by": "publisher",
+                "first-page": "1272",
+                "DOI": "10.1061/(ASCE)0733-9445(1998)124:11(1272)",
+                "volume": "124",
+                "author": "MN Hadi",
+                "year": "1998",
+                "unstructured": "Hadi, M.N., Arfiadi, Y.: Optimum design of absorber for MDOF structures. J. Struct. Eng. 124(11), 1272\u20131280 (1998)",
+                "journal-title": "J. Struct. Eng."
+            },
+            {
+                "issue": "23",
+                "key": "6_CR108",
+                "doi-asserted-by": "publisher",
+                "first-page": "4880",
+                "DOI": "10.1016/j.jsv.2010.05.015",
+                "volume": "329",
+                "author": "GC Marano",
+                "year": "2010",
+                "unstructured": "Marano, G.C., Greco, R., Chiaia, B.: A comparison between different optimization criteria for tuned mass dampers design. J. Sound Vib. 329(23), 4880\u20134890 (2010)",
+                "journal-title": "J. Sound Vib."
+            },
+            {
+                "issue": "4",
+                "key": "6_CR109",
+                "doi-asserted-by": "publisher",
+                "first-page": "749",
+                "DOI": "10.1002/eqe.119",
+                "volume": "31",
+                "author": "MP Singh",
+                "year": "2002",
+                "unstructured": "Singh, M.P., Singh, S., Moreschi, L.M.: Tuned mass dampers for response control of torsional buildings. Earthq. Eng. Struct. Dyn. 31(4), 749\u2013769 (2002)",
+                "journal-title": "Earthq. Eng. Struct. Dyn."
+            },
+            {
+                "issue": "5",
+                "key": "6_CR110",
+                "doi-asserted-by": "publisher",
+                "first-page": "897",
+                "DOI": "10.1002/stc.64",
+                "volume": "13",
+                "author": "NB Desu",
+                "year": "2006",
+                "unstructured": "Desu, N.B., Deb, S.K., Dutta, A.: Coupled tuned mass dampers for control of coupled vibrations in asymmetric buildings. Struct. Control. Health Monit. 13(5), 897\u2013916 (2006)",
+                "journal-title": "Struct. Control. Health Monit."
+            },
+            {
+                "issue": "3",
+                "key": "6_CR111",
+                "doi-asserted-by": "publisher",
+                "first-page": "346",
+                "DOI": "10.1016/j.engstruct.2006.04.015",
+                "volume": "29",
+                "author": "S Pourzeynali",
+                "year": "2007",
+                "unstructured": "Pourzeynali, S., Lavasani, H.H., Modarayi, A.H.: Active control of high rise building structures using fuzzy logic and genetic algorithms. Eng. Struct. 29(3), 346\u2013357 (2007)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "issue": "3",
+                "key": "6_CR112",
+                "doi-asserted-by": "publisher",
+                "first-page": "715",
+                "DOI": "10.1016/j.engstruct.2008.11.017",
+                "volume": "31",
+                "author": "AYT Leung",
+                "year": "2009",
+                "unstructured": "Leung, A.Y.T., Zhang, H.: Particle swarm optimization of tuned mass dampers. Eng. Struct. 31(3), 715\u2013728 (2009)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "issue": "9",
+                "key": "6_CR113",
+                "doi-asserted-by": "publisher",
+                "first-page": "1223",
+                "DOI": "10.1002/eqe.811",
+                "volume": "37",
+                "author": "AY Leung",
+                "year": "2008",
+                "unstructured": "Leung, A.Y., Zhang, H., Cheng, C.C., Lee, Y.Y.: Particle swarm optimization of TMD by non-stationary base excitation during earthquake. Earthq. Eng. Struct. Dynam. 37(9), 1223\u20131246 (2008)",
+                "journal-title": "Earthq. Eng. Struct. Dynam."
+            },
+            {
+                "issue": "9",
+                "key": "6_CR114",
+                "doi-asserted-by": "publisher",
+                "first-page": "2716",
+                "DOI": "10.1016/j.engstruct.2011.05.024",
+                "volume": "33",
+                "author": "G Bekda\u015f",
+                "year": "2011",
+                "unstructured": "Bekda\u015f, G., Nigdeli, S.M.: Estimating optimum parameters of tuned mass dampers using harmony search. Eng. Struct. 33(9), 2716\u20132723 (2011)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "key": "6_CR115",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Bekda\u015f, G., Nigdeli, S.M.: Optimization of tuned mass damper with harmony search. In: Gandomi, A.H., Yang, X.S., Alavi A.H., Talatahari, S. (eds.) Metaheuristic Applications in Structures and Infrastructures, vol. 14, pp. 345\u2013372. Elsevier, Londra (2013a)",
+                "DOI": "10.1016/B978-0-12-398364-0.00014-0"
+            },
+            {
+                "key": "6_CR116",
+                "doi-asserted-by": "publisher",
+                "first-page": "68",
+                "DOI": "10.1016/j.ijmecsci.2013.03.014",
+                "volume": "71",
+                "author": "G Bekda\u015f",
+                "year": "2013",
+                "unstructured": "Bekda\u015f, G., Nigdeli, S.M.: Mass ratio factor for optimum tuned mass damper strategies. Int. J. Mech. Sci. 71, 68\u201384 (2013)",
+                "journal-title": "Int. J. Mech. Sci."
+            },
+            {
+                "issue": "2",
+                "key": "6_CR117",
+                "doi-asserted-by": "publisher",
+                "first-page": "137",
+                "DOI": "10.12989/sss.2013.12.2.137",
+                "volume": "12",
+                "author": "SM Nigdeli",
+                "year": "2013",
+                "unstructured": "Nigdeli, S.M., Bekdas, G.: Optimum tuned mass damper design for preventing brittle fracture of RC buildings. Smart Struct. Syst. 12(2), 137\u2013155 (2013)",
+                "journal-title": "Smart Struct. Syst."
+            },
+            {
+                "key": "6_CR118",
+                "doi-asserted-by": "publisher",
+                "first-page": "14",
+                "DOI": "10.1016/j.soildyn.2013.04.002",
+                "volume": "51",
+                "author": "A Farshidianfar",
+                "year": "2013",
+                "unstructured": "Farshidianfar, A., Soheili, S.: Ant colony optimization of tuned mass dampers for earthquake oscillations of high-rise structures including soil\u2013structure interaction. Soil Dyn. Earthq. Eng. 51, 14\u201322 (2013)",
+                "journal-title": "Soil Dyn. Earthq. Eng."
+            },
+            {
+                "key": "6_CR119",
+                "doi-asserted-by": "publisher",
+                "first-page": "339",
+                "DOI": "10.12989/imm.2013.6.4.339",
+                "volume": "6",
+                "author": "A Farshidianfar",
+                "year": "2013",
+                "unstructured": "Farshidianfar, A.: ABC optimization of TMD parameters for tall buildings with soil structure interaction. Interact. Multiscale Mech. 6, 339\u2013356 (2013)",
+                "journal-title": "Interact. Multiscale Mech."
+            },
+            {
+                "key": "6_CR120",
+                "doi-asserted-by": "publisher",
+                "first-page": "443",
+                "DOI": "10.1016/j.soildyn.2016.10.019",
+                "volume": "92",
+                "author": "G Bekda\u015f",
+                "year": "2017",
+                "unstructured": "Bekda\u015f, G., Nigdeli, S.M.: Metaheuristic based optimization of tuned mass dampers under earthquake excitation by considering soil-structure interaction. Soil Dyn. Earthq. Eng. 92, 443\u2013461 (2017)",
+                "journal-title": "Soil Dyn. Earthq. Eng."
+            },
+            {
+                "key": "6_CR121",
+                "doi-asserted-by": "publisher",
+                "first-page": "89",
+                "DOI": "10.1016/j.engstruct.2017.12.037",
+                "volume": "159",
+                "author": "G Bekda\u015f",
+                "year": "2018",
+                "unstructured": "Bekda\u015f, G., Nigdeli, S.M., Yang, X.S.: A novel bat algorithm based optimum tuning of mass dampers for improving the seismic safety of structures. Eng. Struct. 159, 89\u201398 (2018)",
+                "journal-title": "Eng. Struct."
+            },
+            {
+                "key": "6_CR122",
+                "doi-asserted-by": "publisher",
+                "first-page": "552",
+                "DOI": "10.1016/j.soildyn.2018.10.035",
+                "volume": "116",
+                "author": "G Bekda\u015f",
+                "year": "2019",
+                "unstructured": "Bekda\u015f, G., Kayabekir, A.E., Nigdeli, S.M., Toklu, Y.C.: Tranfer function amplitude minimization for structures with tuned mass dampers considering soil-structure interaction. Soil Dyn. Earthq. Eng. 116, 552\u2013562 (2019)",
+                "journal-title": "Soil Dyn. Earthq. Eng."
+            },
+            {
+                "issue": "6",
+                "key": "6_CR123",
+                "doi-asserted-by": "publisher",
+                "first-page": "1071",
+                "DOI": "10.12989/eas.2014.7.6.1071",
+                "volume": "7",
+                "author": "SM Nigdeli",
+                "year": "2014",
+                "unstructured": "Nigdeli, S.M., Bekdas, G.: Optimum tuned mass damper approaches for adjacent structures. Earthq. Struct. 7(6), 1071\u20131091 (2014)",
+                "journal-title": "Earthq. Struct."
+            },
+            {
+                "issue": "5",
+                "key": "6_CR124",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1002/tal.1593",
+                "volume": "28",
+                "author": "SM Nigdeli",
+                "year": "2019",
+                "unstructured": "Nigdeli, S.M., Bekda\u015f, G.: Optimum design of multiple positioned tuned mass dampers for structures constrained with axial force capacity. Struct. Design Tall Spec. Build. 28(5), e1593 (2019)",
+                "journal-title": "Struct. Design Tall Spec. Build."
+            },
+            {
+                "key": "6_CR125",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.jobe.2019.100847",
+                "volume": "26",
+                "author": "M Yucel",
+                "year": "2019",
+                "unstructured": "Yucel, M., Bekda\u015f, G., Nigdeli, S.M., Sevgen, S.: Estimation of optimum tuned mass damper parameters via machine learning. J. Build. Eng. 26, 100847 (2019)",
+                "journal-title": "J. Build. Eng."
+            },
+            {
+                "issue": "4",
+                "key": "6_CR126",
+                "first-page": "524",
+                "volume": "130",
+                "author": "AS Ahlawat",
+                "year": "2004",
+                "unstructured": "Ahlawat, A.S., Ramaswamy, A.: Multiobjective optimal fuzzy logic control system for response control of wind-excited tall buildings. J. Eng. Mech. 130(4), 524\u2013530 (2004)",
+                "journal-title": "J. Eng. Mech."
+            },
+            {
+                "issue": "4",
+                "key": "6_CR127",
+                "first-page": "437",
+                "volume": "130",
+                "author": "JN Yang",
+                "year": "2004",
+                "unstructured": "Yang, J.N., Agrawal, A.K., Samali, B., Wu, J.C.: Benchmark problem for response control of wind-excited tall buildings. J. Eng. Mech. 130(4), 437\u2013446 (2004)",
+                "journal-title": "J. Eng. Mech."
+            },
+            {
+                "key": "6_CR128",
+                "unstructured": "Ozer, H.O., Sayin, A., Korkmaz, N., Yag\u0131z, N.: Sliding mode control optimized by genetic algorithm for building model. In: 11th Biennial International Conference on Vibration Problems (ICOVP-2013). Lisbon, Portugal (2013)"
+            },
+            {
+                "issue": "7",
+                "key": "6_CR129",
+                "doi-asserted-by": "publisher",
+                "first-page": "542",
+                "DOI": "10.1111/mice.12017",
+                "volume": "28",
+                "author": "F Amini",
+                "year": "2013",
+                "unstructured": "Amini, F., Hazaveh, N.K., Rad, A.A.: Wavelet PSO-based LQR algorithm for optimal structural control using active tuned mass dampers. Comput. Aided Civil Infrastruct. Eng. 28(7), 542\u2013557 (2013)",
+                "journal-title": "Comput. Aided Civil Infrastruct. Eng."
+            },
+            {
+                "issue": "6",
+                "key": "6_CR130",
+                "doi-asserted-by": "publisher",
+                "first-page": "903",
+                "DOI": "10.1002/stc.1502",
+                "volume": "20",
+                "author": "I Venanzi",
+                "year": "2013",
+                "unstructured": "Venanzi, I., Ubertini, F., Materazzi, A.L.: Optimal design of an array of active tuned mass dampers for wind-exposed high-rise buildings. Struct. Control. Health Monit. 20(6), 903\u2013917 (2013)",
+                "journal-title": "Struct. Control. Health Monit."
+            },
+            {
+                "key": "6_CR131",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Shariatmadar, H., Meshkat Razavi, H.: Seismic control response of structures using an ATMD with fuzzy logic controller and PSO method.\u00a0Struct. Eng. Mech.\u00a051 (2014)",
+                "DOI": "10.12989/sem.2014.51.4.547"
+            },
+            {
+                "issue": "10",
+                "key": "6_CR132",
+                "doi-asserted-by": "publisher",
+                "first-page": "781",
+                "DOI": "10.1002/tal.1091",
+                "volume": "23",
+                "author": "M Soleymani",
+                "year": "2014",
+                "unstructured": "Soleymani, M., Khodadadi, M.: Adaptive fuzzy controller for active tuned mass damper of a benchmark tall building subjected to seismic and wind loads. Struct. Design Tall Spec. Build. 23(10), 781\u2013800 (2014)",
+                "journal-title": "Struct. Design Tall Spec. Build."
+            },
+            {
+                "issue": "4",
+                "key": "6_CR133",
+                "doi-asserted-by": "publisher",
+                "first-page": "757",
+                "DOI": "10.1002/stc.1716",
+                "volume": "22",
+                "author": "C Li",
+                "year": "2015",
+                "unstructured": "Li, C., Cao, B.: Hybrid active tuned mass dampers for structures under the ground acceleration. Struct. Control. Health Monit. 22(4), 757\u2013777 (2015)",
+                "journal-title": "Struct. Control. Health Monit."
+            },
+            {
+                "issue": "1",
+                "key": "6_CR134",
+                "doi-asserted-by": "publisher",
+                "first-page": "44",
+                "DOI": "10.1007/s11709-016-0382-6",
+                "volume": "12",
+                "author": "AH Heidari",
+                "year": "2018",
+                "unstructured": "Heidari, A.H., Etedali, S., Javaheri-Tafti, M.R.: A hybrid LQR-PID control design for seismic control of buildings equipped with ATMD. Front. Struct. Civ. Eng. 12(1), 44\u201357 (2018)",
+                "journal-title": "Front. Struct. Civ. Eng."
+            },
+            {
+                "issue": "8",
+                "key": "6_CR135",
+                "doi-asserted-by": "publisher",
+                "first-page": "2976",
+                "DOI": "10.3390/app10082976",
+                "volume": "10",
+                "author": "AE Kayabekir",
+                "year": "2020",
+                "unstructured": "Kayabekir, A.E., Bekda\u015f, G., Nigdeli, S.M., Geem, Z.W.: Optimum design of PID controlled active tuned mass damper via modified harmony search. Appl. Sci. 10(8), 2976 (2020)",
+                "journal-title": "Appl. Sci."
+            },
+            {
+                "key": "6_CR136",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Kayabekir, A.E., Nigdeli, S.M., Bekda\u015f, G.: Robustness of Structures with active tuned mass dampers optimized via modified harmony search for time delay. In: International Conference on Harmony Search Algorithm, pp. 53\u201360. Springer, Singapore (2020)",
+                "DOI": "10.1007/978-981-15-8603-3_6"
+            },
+            {
+                "key": "6_CR137",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Kayabekir, A.E., Nigdeli, S.M., Bekda\u015f, G.: A hybrid metaheuristic method for optimization of active tuned mass dampers. Comput. Aided Civil Infrastruct. Eng. (2021)",
+                "DOI": "10.1111/mice.12790"
+            },
+            {
+                "issue": "7",
+                "key": "6_CR138",
+                "doi-asserted-by": "publisher",
+                "first-page": "2301",
+                "DOI": "10.3390/app10072301",
+                "volume": "10",
+                "author": "AE Kayabekir",
+                "year": "2020",
+                "unstructured": "Kayabekir, A.E., Toklu, Y.C., Bekda\u015f, G., Nigdeli, S.M., Y\u00fccel, M., Geem, Z.W.: A novel hybrid harmony search approach for the analysis of plane stress systems via total potential optimization. Appl. Sci. 10(7), 2301 (2020)",
+                "journal-title": "Appl. Sci."
+            },
+            {
+                "issue": "11",
+                "key": "6_CR139",
+                "doi-asserted-by": "publisher",
+                "first-page": "04020249",
+                "DOI": "10.1061/(ASCE)ST.1943-541X.0002808",
+                "volume": "146",
+                "author": "YC Toklu",
+                "year": "2020",
+                "unstructured": "Toklu, Y.C., Kayabekir, A.E., Bekda\u015f, G., Nigdeli, S.M., Y\u00fccel, M.: Analysis of plane-stress systems via total potential optimization method considering nonlinear behavior. J. Struct. Eng. 146(11), 04020249 (2020)",
+                "journal-title": "J. Struct. Eng."
+            },
+            {
+                "key": "6_CR140",
+                "unstructured": "Nigdeli, S.M., Bekda\u015f, G., Toklu, Y.C.: Total potential energy minimization using metaheuristic algorithms for spatial cable systems with increasing second order effects. In: 12th International Congress on Mechanics (HSTAM2019), pp. 22\u201325 (2019)"
+            },
+            {
+                "key": "6_CR141",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Toklu, Y.C., Bekda\u015f, G., Kayabekir, A.E., Nigdeli, S.M., Y\u00fccel, M.: Total potential optimization using metaheuristics: analysis of cantilever beam via plane-stress members. In: International Conference on Harmony Search Algorithm, pp. 127\u2013138. Springer, Singapore (2020)",
+                "DOI": "10.1007/978-981-15-8603-3_12"
+            },
+            {
+                "issue": "7",
+                "key": "6_CR142",
+                "doi-asserted-by": "publisher",
+                "first-page": "3220",
+                "DOI": "10.3390/app11073220",
+                "volume": "11",
+                "author": "YC Toklu",
+                "year": "2021",
+                "unstructured": "Toklu, Y.C., Bekda\u015f, G., Y\u00fccel, M., Nigdeli, S.M., Kayabekir, A.E., Kim, S., Geem, Z.W.: Total potential optimization using metaheuristic algorithms for solving nonlinear plane strain systems. Appl. Sci. 11(7), 3220 (2021)",
+                "journal-title": "Appl. Sci."
+            },
+            {
+                "key": "6_CR143",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Toklu, Y.C., Bekda\u015f, G., Kayabekir, A.E., Nigdeli, S.M., Y\u00fccel, M.: Total potential optimization using hybrid metaheuristics: a tunnel problem solved via plane stress members. In: Advances in Structural Engineering\u2014Optimization, pp. 221\u2013236. Springer, Cham (2021)",
+                "DOI": "10.1007/978-3-030-61848-3_8"
+            },
+            {
+                "issue": "9",
+                "key": "6_CR144",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1002/tal.1609",
+                "volume": "28",
+                "author": "G Bekda\u015f",
+                "year": "2019",
+                "unstructured": "Bekda\u015f, G., Kayabekir, A.E., Nigdeli, S.M., Toklu, Y.C.: Advanced energy-based analyses of trusses employing hybrid metaheuristics. Struct. Design Tall Spec. Build. 28(9), e1609 (2019)",
+                "journal-title": "Struct. Design Tall Spec. Build."
+            }
+        ],
+        "container-title": [
+            "Studies in Computational Intelligence",
+            "Advances in Swarm Intelligence"
+        ],
+        "original-title": [],
+        "link": [
+            {
+                "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-09835-2_6",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    5
+                ]
+            ],
+            "date-time": "2022-10-05T11:11:09Z",
+            "timestamp": 1664968269000
+        },
+        "score": 1,
+        "resource": {
+            "primary": {
+                "URL": "https://link.springer.com/10.1007/978-3-031-09835-2_6"
+            }
+        },
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    2
+                ]
+            ]
+        },
+        "ISBN": [
+            "9783031098345",
+            "9783031098352"
+        ],
+        "references-count": 144,
+        "URL": "http://dx.doi.org/10.1007/978-3-031-09835-2_6",
+        "relation": {},
+        "ISSN": [
+            "1860-949X",
+            "1860-9503"
+        ],
+        "issn-type": [
+            {
+                "value": "1860-949X",
+                "type": "print"
+            },
+            {
+                "value": "1860-9503",
+                "type": "electronic"
+            }
+        ],
+        "published": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    2
+                ]
+            ]
+        },
+        "assertion": [
+            {
+                "value": "2 October 2022",
+                "order": 1,
+                "name": "first_online",
+                "label": "First Online",
+                "group": {
+                    "name": "ChapterHistory",
+                    "label": "Chapter History"
+                }
+            }
+        ]
+    }
+}

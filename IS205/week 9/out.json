@@ -1,0 +1,1785 @@
+{
+    "search-results": {
+        "opensearch:totalResults": "43795",
+        "opensearch:startIndex": "0",
+        "opensearch:itemsPerPage": "25",
+        "opensearch:Query": {
+            "@role": "request",
+            "@searchTerms": "all(\"big bang\")",
+            "@startPage": "0"
+        },
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=all%28%22big+bang%22%29&apiKey=7f59af901d2d86f78a1fd60c1bf9426a",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "first",
+                "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=all%28%22big+bang%22%29&apiKey=7f59af901d2d86f78a1fd60c1bf9426a",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "next",
+                "@href": "https://api.elsevier.com/content/search/scopus?start=25&count=25&query=all%28%22big+bang%22%29&apiKey=7f59af901d2d86f78a1fd60c1bf9426a",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "last",
+                "@href": "https://api.elsevier.com/content/search/scopus?start=4975&count=25&query=all%28%22big+bang%22%29&apiKey=7f59af901d2d86f78a1fd60c1bf9426a",
+                "@type": "application/json"
+            }
+        ],
+        "entry": [
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139420939"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139420939?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85139420939&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85139420939&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85139420939",
+                "dc:identifier": "SCOPUS_ID:85139420939",
+                "eid": "2-s2.0-85139420939",
+                "dc:title": "Optimum Design and Tuning Applications in Structural Engineering via Swarm Intelligence",
+                "dc:creator": "Bekda\u015f G.",
+                "prism:publicationName": "Studies in Computational Intelligence",
+                "prism:issn": "1860949X",
+                "prism:eIssn": "18609503",
+                "prism:volume": "1054",
+                "prism:pageRange": "109-134",
+                "prism:coverDate": "2023-01-01",
+                "prism:coverDisplayDate": "2023",
+                "prism:doi": "10.1007/978-3-031-09835-2_6",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Istanbul University-Cerrahpasa",
+                        "affiliation-city": "Istanbul",
+                        "affiliation-country": "Turkey"
+                    }
+                ],
+                "prism:aggregationType": "Book Series",
+                "subtype": "ch",
+                "subtypeDescription": "Book Chapter",
+                "source-id": "4900152708",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139291109"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139291109?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85139291109&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85139291109&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S004873332200155X"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85139291109",
+                "dc:identifier": "SCOPUS_ID:85139291109",
+                "eid": "2-s2.0-85139291109",
+                "dc:title": "Incentivizing angels to invest in start-ups: Evidence from a natural experiment",
+                "dc:creator": "Solodoha E.",
+                "prism:publicationName": "Research Policy",
+                "prism:issn": "00487333",
+                "prism:volume": "52",
+                "prism:issueIdentifier": "1",
+                "prism:pageRange": null,
+                "prism:coverDate": "2023-01-01",
+                "prism:coverDisplayDate": "January 2023",
+                "prism:doi": "10.1016/j.respol.2022.104634",
+                "pii": "S004873332200155X",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Ben-Gurion University of the Negev",
+                        "affiliation-city": "Beer Sheva",
+                        "affiliation-country": "Israel"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "104634",
+                "source-id": "22900",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138548460"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138548460?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85138548460&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85138548460&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0148296322007561"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85138548460",
+                "dc:identifier": "SCOPUS_ID:85138548460",
+                "eid": "2-s2.0-85138548460",
+                "dc:title": "Empirical identification of the chief digital officer role: A latent Dirichlet allocation approach",
+                "dc:creator": "Culasso F.",
+                "prism:publicationName": "Journal of Business Research",
+                "prism:issn": "01482963",
+                "prism:volume": "154",
+                "prism:pageRange": null,
+                "prism:coverDate": "2023-01-01",
+                "prism:coverDisplayDate": "January 2023",
+                "prism:doi": "10.1016/j.jbusres.2022.113301",
+                "pii": "S0148296322007561",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Universit\u00e0 degli Studi di Torino",
+                        "affiliation-city": "Turin",
+                        "affiliation-country": "Italy"
+                    },
+                    {
+                        "@_fa": "true",
+                        "affilname": "Univerzita Tom\u00e1se Bati ve Zlin\u011b",
+                        "affiliation-city": "Zlin",
+                        "affiliation-country": "Czech Republic"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "113301",
+                "source-id": "20550",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138011778"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138011778?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85138011778&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85138011778&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85138011778",
+                "dc:identifier": "SCOPUS_ID:85138011778",
+                "eid": "2-s2.0-85138011778",
+                "dc:title": "Load Frequency Control in Multiarea Power System Using TID Control Scheme",
+                "dc:creator": "Kumar N.",
+                "prism:publicationName": "Lecture Notes in Networks and Systems",
+                "prism:issn": "23673370",
+                "prism:eIssn": "23673389",
+                "prism:isbn": [
+                    {
+                        "@_fa": "true",
+                        "$": "9789811925375"
+                    }
+                ],
+                "prism:volume": "467",
+                "prism:pageRange": "457-470",
+                "prism:coverDate": "2023-01-01",
+                "prism:coverDisplayDate": "2023",
+                "prism:doi": "10.1007/978-981-19-2538-2_47",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "G.L.Bajaj Institute of Technology And Management",
+                        "affiliation-city": "Greater Noida",
+                        "affiliation-country": "India"
+                    }
+                ],
+                "prism:aggregationType": "Book Series",
+                "subtype": "cp",
+                "subtypeDescription": "Conference Paper",
+                "source-id": "21100901469",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85137987851"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85137987851?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85137987851&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85137987851&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85137987851",
+                "dc:identifier": "SCOPUS_ID:85137987851",
+                "eid": "2-s2.0-85137987851",
+                "dc:title": "Frequency Control Using Captive Generation and Demand Response",
+                "dc:creator": "Kumar N.",
+                "prism:publicationName": "Lecture Notes in Networks and Systems",
+                "prism:issn": "23673370",
+                "prism:eIssn": "23673389",
+                "prism:isbn": [
+                    {
+                        "@_fa": "true",
+                        "$": "9789811925375"
+                    }
+                ],
+                "prism:volume": "467",
+                "prism:pageRange": "443-456",
+                "prism:coverDate": "2023-01-01",
+                "prism:coverDisplayDate": "2023",
+                "prism:doi": "10.1007/978-981-19-2538-2_46",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "G.L.Bajaj Institute of Technology And Management",
+                        "affiliation-city": "Greater Noida",
+                        "affiliation-country": "India"
+                    }
+                ],
+                "prism:aggregationType": "Book Series",
+                "subtype": "cp",
+                "subtypeDescription": "Conference Paper",
+                "source-id": "21100901469",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85132987400"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85132987400?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85132987400&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85132987400&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85132987400",
+                "dc:identifier": "SCOPUS_ID:85132987400",
+                "eid": "2-s2.0-85132987400",
+                "dc:title": "Neutrino Signals Throw Light on Dark Matter Searches",
+                "dc:creator": "Bhatnagar S.",
+                "prism:publicationName": "Lecture Notes in Networks and Systems",
+                "prism:issn": "23673370",
+                "prism:eIssn": "23673389",
+                "prism:isbn": [
+                    {
+                        "@_fa": "true",
+                        "$": "9789811900976"
+                    }
+                ],
+                "prism:volume": "401",
+                "prism:pageRange": "389-400",
+                "prism:coverDate": "2023-01-01",
+                "prism:coverDisplayDate": "2023",
+                "prism:doi": "10.1007/978-981-19-0098-3_38",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Dayalbagh Educational Institute",
+                        "affiliation-city": "Agra",
+                        "affiliation-country": "India"
+                    }
+                ],
+                "prism:aggregationType": "Book Series",
+                "subtype": "cp",
+                "subtypeDescription": "Conference Paper",
+                "source-id": "21100901469",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85131940518"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85131940518?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85131940518&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85131940518&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85131940518",
+                "dc:identifier": "SCOPUS_ID:85131940518",
+                "eid": "2-s2.0-85131940518",
+                "dc:title": "Characteristics of Cost-effective Prefabrication in Healthcare Construction",
+                "dc:creator": "Scherbakov A.",
+                "prism:publicationName": "Lecture Notes in Civil Engineering",
+                "prism:issn": "23662557",
+                "prism:eIssn": "23662565",
+                "prism:isbn": [
+                    {
+                        "@_fa": "true",
+                        "$": "9783030998769"
+                    }
+                ],
+                "prism:volume": "257",
+                "prism:pageRange": "303-310",
+                "prism:coverDate": "2023-01-01",
+                "prism:coverDisplayDate": "2023",
+                "prism:doi": "10.1007/978-3-030-99877-6_36",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Saint Petersburg State University of Architecture and Civil Engineering",
+                        "affiliation-city": "Saint Petersburg",
+                        "affiliation-country": "Russian Federation"
+                    }
+                ],
+                "prism:aggregationType": "Book Series",
+                "subtype": "cp",
+                "subtypeDescription": "Conference Paper",
+                "source-id": "21100889404",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85137174945"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85137174945?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85137174945&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85137174945&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S004896972205625X"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85137174945",
+                "dc:identifier": "SCOPUS_ID:85137174945",
+                "eid": "2-s2.0-85137174945",
+                "dc:title": "Use of GAL4 factor-based yeast assay to quantify the effects of xenobiotics on RXR homodimer and RXR/PPAR heterodimer in scallop Chlamys farreri",
+                "dc:creator": "Wang Q.",
+                "prism:publicationName": "Science of the Total Environment",
+                "prism:issn": "00489697",
+                "prism:eIssn": "18791026",
+                "prism:volume": "852",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-15",
+                "prism:coverDisplayDate": "15 December 2022",
+                "prism:doi": "10.1016/j.scitotenv.2022.158526",
+                "pii": "S004896972205625X",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Ocean University of China",
+                        "affiliation-city": "Qingdao",
+                        "affiliation-country": "China"
+                    }
+                ],
+                "pubmed-id": "36063929",
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "158526",
+                "source-id": "25349",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138390135"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138390135?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85138390135&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85138390135&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0950705122007444"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85138390135",
+                "dc:identifier": "SCOPUS_ID:85138390135",
+                "eid": "2-s2.0-85138390135",
+                "dc:title": "Special Relativity Search: A novel metaheuristic method based on special relativity physics",
+                "dc:creator": "Goodarzimehr V.",
+                "prism:publicationName": "Knowledge-Based Systems",
+                "prism:issn": "09507051",
+                "prism:volume": "257",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-05",
+                "prism:coverDisplayDate": "5 December 2022",
+                "prism:doi": "10.1016/j.knosys.2022.109484",
+                "pii": "S0950705122007444",
+                "citedby-count": "2",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Shahid Bahonar University of Kerman",
+                        "affiliation-city": "Kerman",
+                        "affiliation-country": "Iran"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "109484",
+                "source-id": "24772",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139731437"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139731437?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85139731437&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85139731437&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2352250X22001877"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85139731437",
+                "dc:identifier": "SCOPUS_ID:85139731437",
+                "eid": "2-s2.0-85139731437",
+                "dc:title": "Digital sexual identities: Between empowerment and disempowerment",
+                "dc:creator": "D\u00f6ring N.",
+                "prism:publicationName": "Current Opinion in Psychology",
+                "prism:issn": "2352250X",
+                "prism:volume": "48",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1016/j.copsyc.2022.101466",
+                "pii": "S2352250X22001877",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Technischen Universit\u00e4t Ilmenau",
+                        "affiliation-city": "Ilmenau",
+                        "affiliation-country": "Germany"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "re",
+                "subtypeDescription": "Review",
+                "article-number": "101466",
+                "source-id": "21100372442",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139316665"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139316665?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85139316665&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85139316665&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0040580922000648"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85139316665",
+                "dc:identifier": "SCOPUS_ID:85139316665",
+                "eid": "2-s2.0-85139316665",
+                "dc:title": "When can we reconstruct the ancestral state? A unified theory",
+                "dc:creator": "Ho L.S.T.",
+                "prism:publicationName": "Theoretical Population Biology",
+                "prism:issn": "00405809",
+                "prism:eIssn": "10960325",
+                "prism:volume": "148",
+                "prism:pageRange": "22-27",
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1016/j.tpb.2022.09.001",
+                "pii": "S0040580922000648",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Dalhousie University",
+                        "affiliation-city": "Halifax",
+                        "affiliation-country": "Canada"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "source-id": "14343",
+                "openaccess": "0",
+                "openaccessFlag": false,
+                "freetoread": {
+                    "value": [
+                        {
+                            "$": "all"
+                        },
+                        {
+                            "$": "repository"
+                        },
+                        {
+                            "$": "repositoryam"
+                        }
+                    ]
+                },
+                "freetoreadLabel": {
+                    "value": [
+                        {
+                            "$": "All Open Access"
+                        },
+                        {
+                            "$": "Green"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139308823"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139308823?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85139308823&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85139308823&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1755008422000783"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85139308823",
+                "dc:identifier": "SCOPUS_ID:85139308823",
+                "eid": "2-s2.0-85139308823",
+                "dc:title": "A state-of-the-art review on modern and future developments of AGC/LFC of conventional and renewable energy-based power systems",
+                "dc:creator": "Peddakapu K.",
+                "prism:publicationName": "Renewable Energy Focus",
+                "prism:issn": "17550084",
+                "prism:volume": "43",
+                "prism:pageRange": "146-171",
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1016/j.ref.2022.09.006",
+                "pii": "S1755008422000783",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Universiti Malaysia Pahang",
+                        "affiliation-city": "Pekan",
+                        "affiliation-country": "Malaysia"
+                    }
+                ],
+                "prism:aggregationType": "Trade Journal",
+                "subtype": "re",
+                "subtypeDescription": "Review",
+                "source-id": "17600155222",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139173213"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139173213?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85139173213&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85139173213&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85139173213",
+                "dc:identifier": "SCOPUS_ID:85139173213",
+                "eid": "2-s2.0-85139173213",
+                "dc:title": "Comparisons of the electron capture of iron group nuclei from two strongly screening models in presupernova",
+                "dc:creator": "Liu J.J.",
+                "prism:publicationName": "Journal of Astrophysics and Astronomy",
+                "prism:issn": "02506335",
+                "prism:eIssn": "09737758",
+                "prism:volume": "43",
+                "prism:issueIdentifier": "2",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1007/s12036-022-09837-4",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Hainan Tropical Ocean University",
+                        "affiliation-city": "Sanya",
+                        "affiliation-country": "China"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "73",
+                "source-id": "27688",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139114842"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139114842?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85139114842&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85139114842&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85139114842",
+                "dc:identifier": "SCOPUS_ID:85139114842",
+                "eid": "2-s2.0-85139114842",
+                "dc:title": "The evolutionary history and ancestral biogeographic range estimation of old-world Rhinolophidae and Hipposideridae (Chiroptera)",
+                "dc:creator": "Chornelia A.",
+                "prism:publicationName": "BMC Ecology and Evolution",
+                "prism:issn": "27307182",
+                "prism:eIssn": "14726785",
+                "prism:volume": "22",
+                "prism:issueIdentifier": "1",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1186/s12862-022-02066-x",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "University of Chinese Academy of Sciences",
+                        "affiliation-city": "Beijing",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "@_fa": "true",
+                        "affilname": "Xishuangbanna Tropical Botanical Garden Chinese Academy of Sciences",
+                        "affiliation-city": "Mengla",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "@_fa": "true",
+                        "affilname": "The University of Hong Kong",
+                        "affiliation-city": "Pokfulam",
+                        "affiliation-country": "Hong Kong"
+                    }
+                ],
+                "pubmed-id": "36192699",
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "112",
+                "source-id": "13115",
+                "openaccess": "1",
+                "openaccessFlag": true,
+                "freetoread": {
+                    "value": [
+                        {
+                            "$": "all"
+                        },
+                        {
+                            "$": "publisherfullgold"
+                        },
+                        {
+                            "$": "repository"
+                        },
+                        {
+                            "$": "repositoryvor"
+                        },
+                        {
+                            "$": "repositoryam"
+                        }
+                    ]
+                },
+                "freetoreadLabel": {
+                    "value": [
+                        {
+                            "$": "All Open Access"
+                        },
+                        {
+                            "$": "Gold"
+                        },
+                        {
+                            "$": "Green"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139045505"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85139045505?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85139045505&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85139045505&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85139045505",
+                "dc:identifier": "SCOPUS_ID:85139045505",
+                "eid": "2-s2.0-85139045505",
+                "dc:title": "Dual techniques of load shedding and capacitor placement considering load models for optimal distribution system",
+                "dc:creator": "Hussain A.N.",
+                "prism:publicationName": "International Journal of Electrical and Computer Engineering",
+                "prism:issn": "20888708",
+                "prism:volume": "12",
+                "prism:issueIdentifier": "6",
+                "prism:pageRange": "5683-5696",
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.11591/ijece.v12i6.pp5683-5696",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Middle Technical University",
+                        "affiliation-city": "Baghdad",
+                        "affiliation-country": "Iraq"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "source-id": "21100373959",
+                "openaccess": "1",
+                "openaccessFlag": true,
+                "freetoread": {
+                    "value": [
+                        {
+                            "$": "all"
+                        },
+                        {
+                            "$": "publisherfullgold"
+                        }
+                    ]
+                },
+                "freetoreadLabel": {
+                    "value": [
+                        {
+                            "$": "All Open Access"
+                        },
+                        {
+                            "$": "Gold"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138734175"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138734175?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85138734175&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85138734175&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85138734175",
+                "dc:identifier": "SCOPUS_ID:85138734175",
+                "eid": "2-s2.0-85138734175",
+                "dc:title": "Immersive cultural heritage digital documentation and information service for historical figure metaverse: a case of Zhu Xi, Song Dynasty, China",
+                "dc:creator": "Fan Z.",
+                "prism:publicationName": "Heritage Science",
+                "prism:eIssn": "20507445",
+                "prism:volume": "10",
+                "prism:issueIdentifier": "1",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1186/s40494-022-00749-8",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Ministry of Education Key Laboratory of Spatial Data Mining and Information Sharing",
+                        "affiliation-city": "Fuzhou",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "@_fa": "true",
+                        "affilname": "Fuzhou University",
+                        "affiliation-city": "Fuzhou",
+                        "affiliation-country": "China"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "148",
+                "source-id": "21100286950",
+                "openaccess": "1",
+                "openaccessFlag": true,
+                "freetoread": {
+                    "value": [
+                        {
+                            "$": "all"
+                        },
+                        {
+                            "$": "publisherfullgold"
+                        },
+                        {
+                            "$": "repository"
+                        },
+                        {
+                            "$": "repositoryvor"
+                        }
+                    ]
+                },
+                "freetoreadLabel": {
+                    "value": [
+                        {
+                            "$": "All Open Access"
+                        },
+                        {
+                            "$": "Gold"
+                        },
+                        {
+                            "$": "Green"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138589769"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138589769?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85138589769&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85138589769&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1043951X22001213"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85138589769",
+                "dc:identifier": "SCOPUS_ID:85138589769",
+                "eid": "2-s2.0-85138589769",
+                "dc:title": "Financial permeation and rural poverty reduction Nexus: Further insights from counties in China",
+                "dc:creator": "Wang X.",
+                "prism:publicationName": "China Economic Review",
+                "prism:issn": "1043951X",
+                "prism:volume": "76",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1016/j.chieco.2022.101863",
+                "pii": "S1043951X22001213",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Hunan University",
+                        "affiliation-city": "Changsha",
+                        "affiliation-country": "China"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "101863",
+                "source-id": "20566",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138347365"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85138347365?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85138347365&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85138347365&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2772662222000601"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85138347365",
+                "dc:identifier": "SCOPUS_ID:85138347365",
+                "eid": "2-s2.0-85138347365",
+                "dc:title": "A swarm optimizer with modified feasible-based mechanism for optimum structure in steel industry",
+                "dc:creator": "Nouhi B.",
+                "prism:publicationName": "Decision Analytics Journal",
+                "prism:eIssn": "27726622",
+                "prism:volume": "5",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1016/j.dajour.2022.100129",
+                "pii": "S2772662222000601",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "University of Tabriz",
+                        "affiliation-city": "Tabriz",
+                        "affiliation-country": "Iran"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "100129",
+                "source-id": "21101098756",
+                "openaccess": "1",
+                "openaccessFlag": true,
+                "freetoread": {
+                    "value": [
+                        {
+                            "$": "all"
+                        },
+                        {
+                            "$": "publisherfullgold"
+                        },
+                        {
+                            "$": "repository"
+                        },
+                        {
+                            "$": "repositoryvor"
+                        }
+                    ]
+                },
+                "freetoreadLabel": {
+                    "value": [
+                        {
+                            "$": "All Open Access"
+                        },
+                        {
+                            "$": "Gold"
+                        },
+                        {
+                            "$": "Green"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85137999345"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85137999345?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85137999345&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85137999345&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85137999345",
+                "dc:identifier": "SCOPUS_ID:85137999345",
+                "eid": "2-s2.0-85137999345",
+                "dc:title": "Production and characterisation of <sup>20,22</sup>Ne targets",
+                "dc:creator": "Prajapati P.M.",
+                "prism:publicationName": "Pramana - Journal of Physics",
+                "prism:issn": "03044289",
+                "prism:eIssn": "09737111",
+                "prism:volume": "96",
+                "prism:issueIdentifier": "4",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1007/s12043-022-02397-w",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "INFN - Laboratori Nazionali del Sud",
+                        "affiliation-city": "Catania",
+                        "affiliation-country": "Italy"
+                    },
+                    {
+                        "@_fa": "true",
+                        "affilname": "Institute of Physics Slovak Academy of Sciences",
+                        "affiliation-city": "Bratislava",
+                        "affiliation-country": "Slovakia"
+                    },
+                    {
+                        "@_fa": "true",
+                        "affilname": "Manipal Academy of Higher Education",
+                        "affiliation-city": "Manipal",
+                        "affiliation-country": "India"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "167",
+                "source-id": "29642",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135930183"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135930183?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85135930183&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85135930183&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85135930183",
+                "dc:identifier": "SCOPUS_ID:85135930183",
+                "eid": "2-s2.0-85135930183",
+                "dc:title": "Wheel Setting Error Modeling and Compensation for Arc Envelope Grinding of Large-Aperture Aspherical Optics",
+                "dc:creator": "Li C.",
+                "prism:publicationName": "Chinese Journal of Mechanical Engineering (English Edition)",
+                "prism:issn": "10009345",
+                "prism:eIssn": "21928258",
+                "prism:volume": "35",
+                "prism:issueIdentifier": "1",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1186/s10033-022-00782-5",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "State Key Laboratory for Manufacturing Systems Engineering",
+                        "affiliation-city": "Xi'an",
+                        "affiliation-country": "China"
+                    },
+                    {
+                        "@_fa": "true",
+                        "affilname": "Xi'an Jiaotong University",
+                        "affiliation-city": "Xi'an",
+                        "affiliation-country": "China"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "108",
+                "source-id": "19806",
+                "openaccess": "1",
+                "openaccessFlag": true,
+                "freetoread": {
+                    "value": [
+                        {
+                            "$": "all"
+                        },
+                        {
+                            "$": "publisherfullgold"
+                        }
+                    ]
+                },
+                "freetoreadLabel": {
+                    "value": [
+                        {
+                            "$": "All Open Access"
+                        },
+                        {
+                            "$": "Gold"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135702298"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135702298?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85135702298&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85135702298&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S235246772200128X"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85135702298",
+                "dc:identifier": "SCOPUS_ID:85135702298",
+                "eid": "2-s2.0-85135702298",
+                "dc:title": "Multi-objective control of isolated power systems under different uncertainty approaches",
+                "dc:creator": "Chapaloglou S.",
+                "prism:publicationName": "Sustainable Energy, Grids and Networks",
+                "prism:eIssn": "23524677",
+                "prism:volume": "32",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1016/j.segan.2022.100853",
+                "pii": "S235246772200128X",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Norges Teknisk-Naturvitenskapelige Universitet",
+                        "affiliation-city": "Trondheim",
+                        "affiliation-country": "Norway"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "100853",
+                "source-id": "21100371258",
+                "openaccess": "1",
+                "openaccessFlag": true,
+                "freetoread": {
+                    "value": [
+                        {
+                            "$": "all"
+                        },
+                        {
+                            "$": "publisherhybridgold"
+                        },
+                        {
+                            "$": "repository"
+                        },
+                        {
+                            "$": "repositoryvor"
+                        }
+                    ]
+                },
+                "freetoreadLabel": {
+                    "value": [
+                        {
+                            "$": "All Open Access"
+                        },
+                        {
+                            "$": "Hybrid Gold"
+                        },
+                        {
+                            "$": "Green"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135478790"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135478790?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85135478790&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85135478790&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85135478790",
+                "dc:identifier": "SCOPUS_ID:85135478790",
+                "eid": "2-s2.0-85135478790",
+                "dc:title": "Detection of companion galaxies around hot dust-obscured hyper-luminous galaxy W0410-0913",
+                "dc:creator": "Ginolfi M.",
+                "prism:publicationName": "Nature Communications",
+                "prism:eIssn": "20411723",
+                "prism:volume": "13",
+                "prism:issueIdentifier": "1",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1038/s41467-022-32297-x",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "European Southern Observatory",
+                        "affiliation-city": "Garching bei Munchen",
+                        "affiliation-country": "Germany"
+                    }
+                ],
+                "pubmed-id": "35931777",
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "4574",
+                "source-id": "19700182758",
+                "openaccess": "1",
+                "openaccessFlag": true,
+                "freetoread": {
+                    "value": [
+                        {
+                            "$": "all"
+                        },
+                        {
+                            "$": "publisherfullgold"
+                        },
+                        {
+                            "$": "repository"
+                        },
+                        {
+                            "$": "repositoryvor"
+                        },
+                        {
+                            "$": "repositoryam"
+                        }
+                    ]
+                },
+                "freetoreadLabel": {
+                    "value": [
+                        {
+                            "$": "All Open Access"
+                        },
+                        {
+                            "$": "Gold"
+                        },
+                        {
+                            "$": "Green"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135398140"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135398140?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85135398140&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85135398140&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "full-text",
+                        "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1566253522000665"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85135398140",
+                "dc:identifier": "SCOPUS_ID:85135398140",
+                "eid": "2-s2.0-85135398140",
+                "dc:title": "A type-2 fuzzy system-based approach for image data fusion to create building information models",
+                "dc:creator": "Leon-Garza H.",
+                "prism:publicationName": "Information Fusion",
+                "prism:issn": "15662535",
+                "prism:volume": "88",
+                "prism:pageRange": "115-125",
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1016/j.inffus.2022.07.007",
+                "pii": "S1566253522000665",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "University of Essex",
+                        "affiliation-city": "Colchester",
+                        "affiliation-country": "United Kingdom"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "source-id": "26099",
+                "openaccess": "0",
+                "openaccessFlag": false
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135166881"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135166881?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85135166881&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85135166881&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85135166881",
+                "dc:identifier": "SCOPUS_ID:85135166881",
+                "eid": "2-s2.0-85135166881",
+                "dc:title": "Lactational delivery of Triclosan promotes non-alcoholic fatty liver disease in newborn mice",
+                "dc:creator": "Weber A.A.",
+                "prism:publicationName": "Nature Communications",
+                "prism:eIssn": "20411723",
+                "prism:volume": "13",
+                "prism:issueIdentifier": "1",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1038/s41467-022-31947-4",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Department of Pharmacology",
+                        "affiliation-city": "San Diego",
+                        "affiliation-country": "United States"
+                    }
+                ],
+                "pubmed-id": "35896521",
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "4346",
+                "source-id": "19700182758",
+                "openaccess": "1",
+                "openaccessFlag": true,
+                "freetoread": {
+                    "value": [
+                        {
+                            "$": "all"
+                        },
+                        {
+                            "$": "publisherfullgold"
+                        },
+                        {
+                            "$": "repository"
+                        },
+                        {
+                            "$": "repositoryvor"
+                        },
+                        {
+                            "$": "repositoryam"
+                        }
+                    ]
+                },
+                "freetoreadLabel": {
+                    "value": [
+                        {
+                            "$": "All Open Access"
+                        },
+                        {
+                            "$": "Gold"
+                        },
+                        {
+                            "$": "Green"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135065739"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "author-affiliation",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85135065739?field=author,affiliation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85135065739&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85135065739&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85135065739",
+                "dc:identifier": "SCOPUS_ID:85135065739",
+                "eid": "2-s2.0-85135065739",
+                "dc:title": "Impact of Divergence in BBO on Efficient Energy Strategy of Demand Side Management",
+                "dc:creator": "Sharma A.K.",
+                "prism:publicationName": "Technology and Economics of Smart Grids and Sustainable Energy",
+                "prism:eIssn": "21994706",
+                "prism:volume": "7",
+                "prism:issueIdentifier": "1",
+                "prism:pageRange": null,
+                "prism:coverDate": "2022-12-01",
+                "prism:coverDisplayDate": "December 2022",
+                "prism:doi": "10.1007/s40866-022-00150-1",
+                "citedby-count": "0",
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "affilname": "Swami Keshvanand Institute of Technology Management &amp; Gramothan",
+                        "affiliation-city": "Jaipur",
+                        "affiliation-country": "India"
+                    },
+                    {
+                        "@_fa": "true",
+                        "affilname": "UEM",
+                        "affiliation-city": "Jaipur",
+                        "affiliation-country": "India"
+                    }
+                ],
+                "prism:aggregationType": "Journal",
+                "subtype": "ar",
+                "subtypeDescription": "Article",
+                "article-number": "28",
+                "source-id": "21100922103",
+                "openaccess": "1",
+                "openaccessFlag": true,
+                "freetoread": {
+                    "value": [
+                        {
+                            "$": "all"
+                        },
+                        {
+                            "$": "publisherfree2read"
+                        }
+                    ]
+                },
+                "freetoreadLabel": {
+                    "value": [
+                        {
+                            "$": "All Open Access"
+                        },
+                        {
+                            "$": "Bronze"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
