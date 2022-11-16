@@ -38,7 +38,8 @@ classes = ['IS205A', 'IS206A']
 # we know we can do this....
 print(stuff['IS205A'])
 # so then this must work....
-c = classes[0]
+c = classes[0] # class_list
+# vs stuff_dict or classes_dict
 print(stuff[c])
 # so then this must also work...
 print(stuff[classes[0]])
